@@ -1,6 +1,6 @@
-# Hallucination in Vision-Language Models: Paper List
+# Paper List
 
-*Last updated: 2026-04-02 | Total papers: 22*
+*Last updated: 2026-04-03 | Total papers: 22*
 
 
 ## 2026
