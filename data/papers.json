@@ -292,7 +292,7 @@
     "Muralikrishnan"
    ],
    "year": 2025,
-   "venue": "LNCS",
+   "venue": "ECCV",
    "url": "https://link.springer.com/10.1007/978-3-031-73636-0_6",
    "arxiv_id": null,
    "source": "seed",
@@ -461,7 +461,7 @@
     "Zhang"
    ],
    "year": 2024,
-   "venue": "IEEE",
+   "venue": "CVPR",
    "url": "https://ieeexplore.ieee.org/document/10656114/",
    "arxiv_id": null,
    "source": "seed",
@@ -474,7 +474,7 @@
     "Song"
    ],
    "year": 2024,
-   "venue": "IEEE",
+   "venue": "CVPR",
    "url": "https://ieeexplore.ieee.org/document/10655462/",
    "arxiv_id": null,
    "source": "seed",
@@ -642,7 +642,7 @@
    "authors": [
     "Aberman"
    ],
-   "year": 2020,
+   "year": 2005,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2005.05751",
    "arxiv_id": "2005.05751",
@@ -655,7 +655,7 @@
    "authors": [
     "Aberman"
    ],
-   "year": 2020,
+   "year": 2005,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2005.05732",
    "arxiv_id": "2005.05732",
@@ -669,7 +669,7 @@
     "Wang"
    ],
    "year": 2020,
-   "venue": "IEEE",
+   "venue": "CVPR",
    "url": "https://ieeexplore.ieee.org/document/9156872/",
    "arxiv_id": null,
    "source": "seed",
@@ -695,7 +695,7 @@
     "Du"
    ],
    "year": 2019,
-   "venue": "",
+   "venue": "Eurographics",
    "url": "https://doi.org/10.2312/egs.20191002",
    "arxiv_id": null,
    "source": "seed",
@@ -734,7 +734,7 @@
     "Holden"
    ],
    "year": 2016,
-   "venue": "ACM Trans. Graph.",
+   "venue": "ACM TOG",
    "url": "https://doi.org/10.1145/2897824.2925975",
    "arxiv_id": null,
    "source": "seed",
@@ -747,7 +747,7 @@
     "Yumer"
    ],
    "year": 2016,
-   "venue": "ACM Trans. Graph.",
+   "venue": "ACM TOG",
    "url": "https://doi.org/10.1145/2897824.2925955",
    "arxiv_id": null,
    "source": "seed",
@@ -760,7 +760,7 @@
     "Xia"
    ],
    "year": 2015,
-   "venue": "ACM Trans. Graph.",
+   "venue": "ACM TOG",
    "url": "https://doi.org/10.1145/2766999",
    "arxiv_id": null,
    "source": "seed",
@@ -773,7 +773,7 @@
     "Hsu"
    ],
    "year": 2005,
-   "venue": "ACM Trans. Graph.",
+   "venue": "ACM TOG",
    "url": "https://doi.org/10.1145/1073204.1073315",
    "arxiv_id": null,
    "source": "seed",
