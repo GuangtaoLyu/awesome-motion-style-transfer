@@ -36,7 +36,6 @@ stylized motion generation, and closely related motion/pose transfer work.
 20. **StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**  ,   Guo et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2503.21775-b31b1b.svg)](https://arxiv.org/abs/2503.21775)
 21. **Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion**  ,   Sawdayee et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2503.19557-b31b1b.svg)](https://arxiv.org/abs/2503.19557)
 22. **PersonaBooth: Personalized Text-to-Motion Generation**  ,   Kim et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2503.07390-b31b1b.svg)](https://arxiv.org/abs/2503.07390)
-23. **Temporal Residual Jacobians for Rig-Free Motion Transfer**  ,   Muralikrishnan et al.  ,   [Paper](https://link.springer.com/10.1007/978-3-031-73636-0_6)
 
 ## 2024
 
@@ -54,6 +53,7 @@ stylized motion generation, and closely related motion/pose transfer work.
 35. **Scalable Motion Style Transfer with Constrained Diffusion Generation**  ,   Yin et al.  ,   [![arXiv](https://img.shields.io/badge/arXiv-2312.07311-b31b1b.svg)](https://arxiv.org/abs/2312.07311)
 36. **Semantics-Aware Motion Retargeting with Vision-Language Models**  ,   Zhang et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10656114/)
 37. **Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model**  ,   Song et al.  ,   [Paper](https://ieeexplore.ieee.org/document/10655462/)
+23. **Temporal Residual Jacobians for Rig-Free Motion Transfer**  ,   Muralikrishnan et al.  ,   ECCV 2024  ,   [Paper](https://link.springer.com/10.1007/978-3-031-73636-0_6)
 
 ## 2023
 
