@@ -1,10 +1,47 @@
 {
  "papers": [
   {
-   "title": "$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning",
+   "title": "Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots",
    "authors": [
-    "Wu"
+    "Huang"
    ],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2606.03536",
+   "arxiv_id": "2606.03536",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MSTDF: Motion Style Transfer Towards High Visual Fidelity Based on Dynamic Fusion",
+   "authors": [
+    "Qian"
+   ],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/7631929738805554775a341aaa0d5163c5c30294",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Res-LGAN for human motion style transfer with more features preserved",
+   "authors": [
+    "Kong"
+   ],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/3c56d501c4c380a0fb96e44c9a78df5e54092630",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning",
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26053",
@@ -14,10 +51,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "A Cyclic Consistency Motion Style Transfer Method Combined with Kinematic Constraints.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1155/2021/5548614",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "A Deep Learning Framework for Character Motion Synthesis and Editing",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/2897824.2925975",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks",
-   "authors": [
-    "Han"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25893",
@@ -27,10 +84,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "A Generalized Two-Stage Approach to Motion Style Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/iccvw69036.2025.00684",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "A Generalized Two-Stage Approach to Motion Style Transfer.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/ICCVW69036.2025.00684",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "A quiet STEVE disturbs navigation satellites' signals in the Antarctic",
-   "authors": [
-    "Kotova"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25764",
@@ -41,9 +118,7 @@
   },
   {
    "title": "A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks",
-   "authors": [
-    "Hu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26008",
@@ -53,10 +128,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "A Spatially Adaptive Motion Style Transfer Method with Temporal Convolutional Network",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.3724/sp.j.1089.2024.20083",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "A unified continuous-discrete framework for Nesterov acceleration: transitions between convex and strongly convex regimes",
-   "authors": [
-    "He"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26014",
@@ -66,10 +150,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "A video painterly stylization using semantic segmentation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/5e6b7b0b27701029e10c3b3f066f3355bd931173",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
-   "authors": [
-    "Li"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26095",
@@ -79,10 +172,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "AC-Motion: High-Quality Arbitrary Motion Style Transfer with Local Channel Modulation and Adaptive Attention",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/icvr66534.2025.11172600",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Addressing Data Scarcity in Emotion Recognition from Body Motion Through Style Transfer.",
-   "authors": [
-    "Folco"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.1109/PerComWorkshops68308.2026.11585360",
@@ -92,10 +194,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Adult2child: Motion Style Transfer using CycleGANs",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3424636.3426909",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
-   "authors": [
-    "Khan"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26093",
@@ -117,9 +228,7 @@
   },
   {
    "title": "Anytime Global Tensor Motion Planning",
-   "authors": [
-    "Coumar"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25830",
@@ -129,10 +238,74 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Arbitrary Motion Style Transfer via Contrastive Learning",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/d7f037347e337fc3162b0d457c2bb22626e758c0",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://ieeexplore.ieee.org/document/10655462/",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/cvpr52733.2024.00084",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/CVPR52733.2024.00084",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "AStF: Motion Style Transfer via Adaptive Statistics Fusor",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2511.04192-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "AStF: Motion Style Transfer via Adaptive Statistics Fusor.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.48550/arXiv.2511.04192",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs",
-   "authors": [
-    "Liang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26004",
@@ -143,9 +316,7 @@
   },
   {
    "title": "Atmospheric Newtonian noise in torsion-balance measurements of the gravitational constant $G$",
-   "authors": [
-    "Mohanta"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26020",
@@ -156,9 +327,7 @@
   },
   {
    "title": "Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows",
-   "authors": [
-    "Wakabayashi"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26016",
@@ -168,10 +337,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Behave Your Motion: Habit-preserved Cross-category Animal Motion Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2507.07394-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Beyond Local Surprise: Grounded Dialogue as Selective Belief Revision under Referential Uncertainty",
-   "authors": [
-    "Liu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26035",
@@ -193,9 +371,7 @@
   },
   {
    "title": "Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots.",
-   "authors": [
-    "Huang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.48550/arXiv.2606.03536",
@@ -206,9 +382,7 @@
   },
   {
    "title": "Can circumbinary discs produce the eccentricities of shell-burning stripped giant binaries?",
-   "authors": [
-    "Moltzer"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25762",
@@ -219,9 +393,7 @@
   },
   {
    "title": "CardioFusion-AI: Robust ECG--PPG Fusion for Multimodal Physiological Monitoring Under Signal Degradation",
-   "authors": [
-    "Kamalakannan"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26000",
@@ -232,9 +404,7 @@
   },
   {
    "title": "Choose Your Game Wisely: Measuring Game-Theoretic Structures in Real-World Vehicle Interactions",
-   "authors": [
-    "Li"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25917",
@@ -244,10 +414,63 @@
    "added": "2026-08-27"
   },
   {
+   "title": "ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3746027.3755194",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2206.04382",
+   "arxiv_id": "2206.04382",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Contrastive disentanglement for self-supervised motion style transfer.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1007/s11042-024-18238-4",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Controllable Long-term Motion Generation with Extended Joint Targets",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2512.04487",
+   "arxiv_id": "2512.04487",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Controlling Cross-Content Motion Style Transfer via Statistical Style Difference.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3681756.3697968",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Cross-Lingual Adaptation of Phoneme–Motion Memory for Turkish Talking Head Generation",
-   "authors": [
-    "Temiz"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://www.semanticscholar.org/paper/74ed0af9f1aa83c39c241317006e261363dcfc60",
@@ -258,13 +481,77 @@
   },
   {
    "title": "Cyclically Colored Triangulations: Enumeration and Connectedness of Reconfiguration Graphs",
-   "authors": [
-    "Debrohim"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26006",
    "arxiv_id": "2608.26006",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2503.19557-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2503.19557",
+   "arxiv_id": "2503.19557",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Dance Style Transfer with Cross-modal Transformer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2208.09406-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Decoupling Contact for Fine-Grained Motion Style Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2409.05387-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Decoupling Contact for Fine-Grained Motion Style Transfer.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3680528.3687609",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Deep Learning Cross-Phase Style Transfer for Motion Artifact Correction in Coronary Computed Tomography Angiography.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/ACCESS.2020.2991445",
+   "arxiv_id": null,
    "source": "seed",
    "category": "Motion Style Transfer",
    "added": "2026-08-27"
@@ -281,10 +568,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Deep Learning-Based Motion Style Transfer Tools, Techniques and Future Challenges.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.3390/s23052597",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "DESCENT: Directed Edge Scene Encoding for Airport Surface Movement Prediction",
-   "authors": [
-    "Prutsch"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26002",
@@ -294,10 +590,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Diffusion-based Human Motion Style Transfer with Semantic Guidance",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2405.06646-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Diffusion-based Human Motion Style Transfer with Semantic Guidance.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1111/cgf.15169",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization",
-   "authors": [
-    "Xu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2606.26668",
@@ -308,9 +624,7 @@
   },
   {
    "title": "Dual modes in Kerr spacetimes and the Whiting transform: Mode stability revisited",
-   "authors": [
-    "Petersen"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26034",
@@ -332,9 +646,7 @@
   },
   {
    "title": "DualOPSD: Adaptive Privileged Teachers for On-Policy Self-Distillation",
-   "authors": [
-    "Chen"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26019",
@@ -345,9 +657,7 @@
   },
   {
    "title": "Dynamics and Spectra-Polarimetric Signatures of GRMHD Simulations with Multiple Magnetic Loops",
-   "authors": [
-    "Kinadeter"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25763",
@@ -358,9 +668,7 @@
   },
   {
    "title": "EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis",
-   "authors": [
-    "Li"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2606.25465",
@@ -370,10 +678,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Efficient Neural Networks for Real-time Motion Style Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3340254",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Electron spin resonance driven photogalvanic effect in graphene-based structures",
-   "authors": [
-    "Bray"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26026",
@@ -394,10 +711,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Emotion-Aware Personalized Co-Speech Motion Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/a2e885b587d62aba4fb3c19c4babadc491c80cb4",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Enhance Regional Wall Segmentation by Style Transfer for Regional Wall Motion Assessment.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "http://proceedings.bmvc2023.org/462/",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Epistemic Networks, Collective Misperception, and the Manipulation of Social Knowledge",
-   "authors": [
-    "Moldoveanu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26075",
@@ -408,9 +745,7 @@
   },
   {
    "title": "EVOMAL: Self-Poisoning in Self-Evolving Coding Agents",
-   "authors": [
-    "Wu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25776",
@@ -421,9 +756,7 @@
   },
   {
    "title": "Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model",
-   "authors": [
-    "Tesfaye"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26099",
@@ -434,9 +767,7 @@
   },
   {
    "title": "Examples beyond Bounded Mean Motion for Quantitative Rigidity on the Two-Torus",
-   "authors": [
-    "Chang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25906",
@@ -447,9 +778,7 @@
   },
   {
    "title": "Fast Generative Grasping via Lie Group-Constrained MeanFlow",
-   "authors": [
-    "Bukhari"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26076",
@@ -459,10 +788,41 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Fast Neural Style Transfer for Motion Data",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/MCG.2017.3271464",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Fast Neural Style Transfer for Motion Data",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/mcg.2017.3271464",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Few-shot Learning of Homogeneous Human Locomotion Styles",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1111/cgf.13555",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
-   "authors": [
-    "Bonnet-Guerrini"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26090",
@@ -473,13 +833,44 @@
   },
   {
    "title": "Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study",
-   "authors": [
-    "Duart"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26060",
    "arxiv_id": "2608.26060",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/TVCG.2023.3320216",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "FlowStyler: Artistic Video Stylization Via Transformation Fields Transports",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/c3d8adcd5f7065431a1f5e9171112630991ea123",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "FreeViS: Training-free Video Stylization with Inconsistent References",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2510.01686",
+   "arxiv_id": "2510.01686",
    "source": "seed",
    "category": "Motion Style Transfer",
    "added": "2026-08-27"
@@ -497,9 +888,7 @@
   },
   {
    "title": "From Round-Trip State Echo to Error Recovery: Snapshot-Resolved Quantum-Hardware Diagnostics",
-   "authors": [
-    "Essayag"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26010",
@@ -509,10 +898,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2310.01408",
+   "arxiv_id": "2310.01408",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Generalizing Human Motion Style Transfer Method Based on Metadata-independent Learning.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3681756.3697890",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Group-Shared Low-Rank Approximation for Mobile-Efficient Pointwise Convolutions in Large-Kernel CNNs",
-   "authors": [
-    "Luo"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26069",
@@ -533,10 +942,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "human motion style transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
-   "authors": [
-    "Rane"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26083",
@@ -558,9 +976,7 @@
   },
   {
    "title": "Lab earthquakes confirm the theory of frictional slip pulses",
-   "authors": [
-    "Shafir"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26065",
@@ -571,13 +987,66 @@
   },
   {
    "title": "MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization",
-   "authors": [
-    "Zhang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25864",
    "arxiv_id": "2608.25864",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MAFD: Fine-Grained Motion Style Transfer with Adaptive Signal Fusion",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/icassp49660.2025.10889410",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MAFD: Fine-Grained Motion Style Transfer with Adaptive Signal Fusion.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/ICASSP49660.2025.10889410",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2507.20562",
+   "arxiv_id": "2507.20562",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MOCHA: Real-Time Motion Characterization via Context Matching",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://dl.acm.org/doi/10.1145/3610548.3618252",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2406.06508-b31b1b.svg",
+   "arxiv_id": null,
    "source": "seed",
    "category": "Motion Style Transfer",
    "added": "2026-08-27"
@@ -606,9 +1075,7 @@
   },
   {
    "title": "MoSAIC: Aligned Intervention Supervision for Part-Local Motion Style Transfer.",
-   "authors": [
-    "Amini"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.48550/arXiv.2607.26304",
@@ -619,9 +1086,7 @@
   },
   {
    "title": "MoSound: An Interactive Tool for Generative Sound Design in Motion Graphics",
-   "authors": [
-    "Huang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://www.semanticscholar.org/paper/c116b217f2ac911f5434c05e7f0158ac3220b309",
@@ -631,13 +1096,132 @@
    "added": "2026-08-27"
   },
   {
+   "title": "MoST: Motion Style Transformer Between Diverse Action Contents",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2403.06225-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion AutoStyling via Seperable Modelling of Posing and Dynamic LoRAs",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/60c8a32985e2c3602097d83828db3932e893edcc",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/e4b7af97e24723865ed83d256d2205313c4bdda8",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion Puzzle: Arbitrary Motion Style Transfer by Body Part",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2202.05274-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion Puzzle: Arbitrary Motion Style Transfer by Body Part.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3516429",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion Style Transfer in Correlated Motion Spaces.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1007/978-3-319-60922-5_18",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion Style Transfer: Methods, Challenges, and Future Directions.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1007/978-981-95-0100-7_4",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion Style Transfer: Modular Low-Rank Adaptation for Deep Motion Forecasting.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://proceedings.mlr.press/v205/kothari23a.html",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Motion Transfer-Enhanced StyleGAN for Generating Diverse Macaque Facial Expressions.",
-   "authors": [
-    "Igaue"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.1109/ACCESS.2026.3706030",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion-coherent stylization with screen-space image filters",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/a0612e6cd4ed6001316a98334941490fb079fb0a",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion-STUDiO : Motion Style Transfer Utilized for Dancing Operation by Considering Both Style and Dance Features",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/icce-taiwan62264.2024.10674583",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion-STUDiO : Motion Style Transfer Utilized for Dancing Operation by Considering Both Style and Dance Features.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/ICCE-Taiwan62264.2024.10674583",
    "arxiv_id": null,
    "source": "seed",
    "category": "Motion Style Transfer",
@@ -655,10 +1239,41 @@
    "added": "2026-08-27"
   },
   {
+   "title": "MSTDF: Motion Style Transfer Towards High Visual Fidelity Based on Dynamic Fusion.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/LSP.2025.3546885",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Multi-Head AdaIN Audio-to-Video Motion Style Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/robio64047.2024.10907605",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Multi-Head AdaIN Audio-to-Video Motion Style Transfer.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/ROBIO64047.2024.10907605",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Multicomponent Magnetic Domain Walls in Rhombohedral Graphene",
-   "authors": [
-    "Das"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26104",
@@ -669,9 +1284,7 @@
   },
   {
    "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
-   "authors": [
-    "Yin"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26094",
@@ -681,10 +1294,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Neural Pose Transfer by Spatially Adaptive Instance Normalization",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://ieeexplore.ieee.org/document/9156872/",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Neural-Network and Reduced-order Modeling Workflows for AI-Driven CFD: Fast Response Surfaces, Reduced Dynamics and Jet in Cross-flow Examples",
-   "authors": [
-    "Eduku"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26064",
@@ -706,9 +1328,7 @@
   },
   {
    "title": "Notes on Gepner Construction",
-   "authors": [
-    "Nishikawa"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26017",
@@ -719,9 +1339,7 @@
   },
   {
    "title": "Numerical Direct Scattering Transform for Dark Solitons",
-   "authors": [
-    "Mullyadzhanov"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26054",
@@ -731,10 +1349,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Occlusion-Robust Stylization for Drawing-Based 3D Animation",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2508.00398",
+   "arxiv_id": "2508.00398",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "On-the-fly Learning to Transfer Motion Style with Diffusion Models: A Semantic Guidance Approach.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.48550/arXiv.2405.06646",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography",
-   "authors": [
-    "Zhang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25904",
@@ -745,13 +1383,33 @@
   },
   {
    "title": "One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation",
-   "authors": [
-    "Team"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26058",
    "arxiv_id": "2608.26058",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Online Motion Style Transfer for Interactive Character Control",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2203.16393-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Online Motion Style Transfer for Interactive Character Control.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.48550/arXiv.2203.16393",
+   "arxiv_id": null,
    "source": "seed",
    "category": "Motion Style Transfer",
    "added": "2026-08-27"
@@ -769,9 +1427,7 @@
   },
   {
    "title": "PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology",
-   "authors": [
-    "Bhat"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25970",
@@ -792,10 +1448,41 @@
    "added": "2026-08-27"
   },
   {
+   "title": "PersonaAnimator: Personalized Motion Transfer from Unconstrained Videos",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2508.19895-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "PersonaBooth: Personalized Text-to-Motion Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2503.07390-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Pixel-Level Character Motion Style Transfer using Conditional Adversarial Networks",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3208159.3208161",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
-   "authors": [
-    "Ma"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26088",
@@ -806,9 +1493,7 @@
   },
   {
    "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
-   "authors": [
-    "Subedi"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26091",
@@ -819,9 +1504,7 @@
   },
   {
    "title": "Polynomial extensions do not preserve the strong finite type property",
-   "authors": [
-    "Tran"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26044",
@@ -832,9 +1515,7 @@
   },
   {
    "title": "Prefix Sliding for efficient test-time scaling",
-   "authors": [
-    "Muennighoff"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26070",
@@ -845,9 +1526,7 @@
   },
   {
    "title": "Quantum-Inspired Modeling of Driving Behavior",
-   "authors": [
-    "Elayan"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25907",
@@ -857,10 +1536,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Real-Time Style Modelling of Human Locomotion via Feature-Wise Transformations and Local Motion Phases",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2201.04439-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Realtime Style Transfer for Unlabeled Heterogeneous Human Motion",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/2766999",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "REBELS-25: multi-phase morphology and kinematics at z = 7.31",
-   "authors": [
-    "Rowland"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25982",
@@ -871,9 +1570,7 @@
   },
   {
    "title": "Reduction numbers for witnesses to the generalized Loewy length",
-   "authors": [
-    "Bartels"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26003",
@@ -884,9 +1581,7 @@
   },
   {
    "title": "RefinedStyle: Text-Conditioned Style Attention Reconstruction for Training-Free Style Transfer",
-   "authors": [
-    "Liu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.2139/ssrn.7002142",
@@ -897,9 +1592,7 @@
   },
   {
    "title": "Regularity, quantitative deviation, and non-rigidity of a lacunary skew product",
-   "authors": [
-    "Chang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25821",
@@ -909,10 +1602,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Res-LGAN for human motion style transfer with more features preserved",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.3233/jifs-224175",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Res-LGAN for human motion style transfer with more features preserved.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.3233/JIFS-224175",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Robust CurveMoE: Multi-Norm Adversarial Defense for Mixture-of-Experts Models via Mode Connectivity",
-   "authors": [
-    "Zhang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26043",
@@ -923,9 +1636,7 @@
   },
   {
    "title": "RTLGuard: A Lightweight Teacher-Student Defense for Poisoned RTL Code Generation Models",
-   "authors": [
-    "Rezakhani"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26049",
@@ -935,13 +1646,55 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Scalable Motion Style Transfer with Constrained Diffusion Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2312.07311-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Scalable Motion Style Transfer with Constrained Diffusion Generation.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1609/aaai.v38i9.28889",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "SceneMoDiff: Trajectory-Decoupled Motion Style Transfer via Multimodal Environmental Modulation.",
-   "authors": [
-    "Zhang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.1007/978-981-92-3429-5_45",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Semi-Supervised Character Motion Style Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.3724/sp.j.1089.2023-00385",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Semi-supervised style transfer mapping-based framework for sEMG-based pattern recognition with 1- or 2-DoF forearm motions.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1016/j.bspc.2021.102817",
    "arxiv_id": null,
    "source": "seed",
    "category": "Motion Style Transfer",
@@ -960,9 +1713,7 @@
   },
   {
    "title": "Slasher: Power Flexibility for Cloud Datacenters",
-   "authors": [
-    "Lin"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26021",
@@ -972,10 +1723,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2405.02844-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.48550/arXiv.2405.02844",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Socialized Detector Learning: Trajectory-Guided and Reciprocal Distillation for Heterogeneous Object Detectors",
-   "authors": [
-    "Li"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25836",
@@ -996,6 +1767,17 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Spectral Style Transfer for Human Motion between Independent Actions",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/2897824.2925955",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Strong CP and the PMNS Phase in Dirac Left-Right Symmetry",
    "authors": [],
    "year": null,
@@ -1007,10 +1789,63 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Style Translation for Human Motion",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/1073204.1073315",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2203.02574-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/cvpr52688.2022.00648",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/CVPR52688.2022.00648",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Stylistic Locomotion Modeling with Conditional Variational Autoencoder",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.2312/egs.20191002",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "STyMo: Fast and Controllable Few-Shot Motion Style Transfer.",
-   "authors": [
-    "Ponton"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.1145/3811356",
@@ -1021,9 +1856,7 @@
   },
   {
    "title": "Symmetry Origins of the Field-Free Superconducting Diode Effect in the Kagome Superconductor CsV$_3$Sb$_5$",
-   "authors": [
-    "Liu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26022",
@@ -1033,10 +1866,52 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Temporal Consistent Oil Painting Video Stylization",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/cbbc70324c9e967da83b69881bd6f8386cb02224",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Temporal Residual Jacobians for Rig-Free Motion Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://link.springer.com/10.1007/978-3-031-73636-0_6",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Terrain generation using Neural Transfer Style and Fractal Brownian Motion noise with constraints",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.5753/sibgrapi.est.2025.38302",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "The Generation of Articulatory Animations Based on Keypoint Detection and Motion Transfer Combined with Image Style Transfer.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.3390/computers12080150",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "The Isotopic and Elemental Abundances of Planet-Host Star TRAPPIST-1",
-   "authors": [
-    "Picos"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26097",
@@ -1058,9 +1933,7 @@
   },
   {
    "title": "Three omitted values and non-Blaschke point divisors in half-planes",
-   "authors": [
-    "Tang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26062",
@@ -1070,10 +1943,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Time-domain Mixup Source Data Augmentation of sEMGs for Motion Recognition towards Efficient Style Transfer Mapping.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/EMBC46164.2021.9631048",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Topology-Agnostic Animal Motion Generation from Text Prompt",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2512.10352-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
-   "authors": [
-    "Yan"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26086",
@@ -1083,10 +1976,30 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Transferring Human Emotions to Robot Motions using Neural Policy Style Transfer",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2402.00663-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Transferring human emotions to robot motions using Neural Policy Style Transfer.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.48550/arXiv.2402.00663",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "UltraPIPS: Improving model perception in B-mode ultrasound with foundation models",
-   "authors": [
-    "Grutman"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26033",
@@ -1096,10 +2009,96 @@
    "added": "2026-08-27"
   },
   {
+   "title": "UMSD: High Realism Motion Style Transfer via Unified Mamba-based Diffusion.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3746027.3754873",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2402.13185",
+   "arxiv_id": "2402.13185",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2212.08526-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.5220/0011631000003417",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Unpaired Motion Style Transfer from Video to Animation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2005.05751-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Unpaired motion style transfer from video to animation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3386569.3392469",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Unpaired Motion Style Transfer with Motion-Oriented Projection Flow Network",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/icme52920.2022.9859776",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Unpaired Motion Style Transfer with Motion-Oriented Projection Flow Network.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/ICME52920.2022.9859776",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-   "authors": [
-    "Xu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26105",
@@ -1110,9 +2109,7 @@
   },
   {
    "title": "VirTooS: A ROS 2 - Unity Virtualization Toolkit for Fleet Management of Autonomous Mobile Robots",
-   "authors": [
-    "Drudi"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26066",
@@ -1123,9 +2120,7 @@
   },
   {
    "title": "VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following",
-   "authors": [
-    "Zeng"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26013",
@@ -1136,9 +2131,7 @@
   },
   {
    "title": "Viscochiral Transport: Chiral Selection of Hydrodynamic Vortices by Berry Curvature",
-   "authors": [
-    "Panigrahi"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26102",
@@ -1148,14 +2141,34 @@
    "added": "2026-08-27"
   },
   {
+   "title": "ViSt3D: Video Stylization with 3D CNN",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/2da5712d32bc93c5826c550c6041027b9ca306aa",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Visual General Intelligence: A White Paper",
-   "authors": [
-    "Kataoka"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.25924",
    "arxiv_id": "2608.25924",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Volumetric Temporal Texture Synthesis for Smoke Stylization using Neural Cellular Automata",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2502.09631",
+   "arxiv_id": "2502.09631",
    "source": "seed",
    "category": "Motion Style Transfer",
    "added": "2026-08-27"
@@ -1184,9 +2197,7 @@
   },
   {
    "title": "Vulnerable Code Search: Transferable Attack for Code Language Models",
-   "authors": [
-    "Wang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26031",
@@ -1196,10 +2207,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2407.18946",
+   "arxiv_id": "2407.18946",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
    "title": "When Obstacles Bend: Modeling Vegetation Deformation in the context of Field Robotics",
-   "authors": [
-    "Khizar"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26050",
@@ -1221,9 +2241,7 @@
   },
   {
    "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
-   "authors": [
-    "Zhou"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26103",
@@ -1233,1323 +2251,13 @@
    "added": "2026-08-27"
   },
   {
-   "title": "A Generalized Two-Stage Approach to Motion Style Transfer",
-   "authors": [
-    "Guo"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/iccvw69036.2025.00684",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "A Generalized Two-Stage Approach to Motion Style Transfer.",
-   "authors": [
-    "Guo"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/ICCVW69036.2025.00684",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "AC-Motion: High-Quality Arbitrary Motion Style Transfer with Local Channel Modulation and Adaptive Attention",
-   "authors": [
-    "Chen"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/icvr66534.2025.11172600",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Arbitrary Motion Style Transfer via Contrastive Learning",
-   "authors": [
-    "Yang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/d7f037347e337fc3162b0d457c2bb22626e758c0",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "AStF: Motion Style Transfer via Adaptive Statistics Fusor",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2511.04192-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "AStF: Motion Style Transfer via Adaptive Statistics Fusor.",
-   "authors": [
-    "Chen"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.48550/arXiv.2511.04192",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Behave Your Motion: Habit-preserved Cross-category Animal Motion Transfer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2507.07394-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion.",
-   "authors": [
-    "Wang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3746027.3755194",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Controllable Long-term Motion Generation with Extended Joint Targets",
-   "authors": [
-    "Lee"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2512.04487",
-   "arxiv_id": "2512.04487",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2503.19557-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion",
-   "authors": [
-    "Sawdayee"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2503.19557",
-   "arxiv_id": "2503.19557",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Emotion-Aware Personalized Co-Speech Motion Generation",
-   "authors": [
-    "Zhao"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/a2e885b587d62aba4fb3c19c4babadc491c80cb4",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "FlowStyler: Artistic Video Stylization Via Transformation Fields Transports",
-   "authors": [
-    "Gong"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/c3d8adcd5f7065431a1f5e9171112630991ea123",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "FreeViS: Training-free Video Stylization with Inconsistent References",
-   "authors": [
-    "Xu"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2510.01686",
-   "arxiv_id": "2510.01686",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MAFD: Fine-Grained Motion Style Transfer with Adaptive Signal Fusion",
-   "authors": [
-    "Qian"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/icassp49660.2025.10889410",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MAFD: Fine-Grained Motion Style Transfer with Adaptive Signal Fusion.",
-   "authors": [
-    "Qian"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/ICASSP49660.2025.10889410",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization",
-   "authors": [
-    "Kim"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2507.20562",
-   "arxiv_id": "2507.20562",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion AutoStyling via Seperable Modelling of Posing and Dynamic LoRAs",
-   "authors": [
-    "Au"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/60c8a32985e2c3602097d83828db3932e893edcc",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion Style Transfer: Methods, Challenges, and Future Directions.",
-   "authors": [
-    "Du"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1007/978-981-95-0100-7_4",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MSTDF: Motion Style Transfer Towards High Visual Fidelity Based on Dynamic Fusion.",
-   "authors": [
-    "Qian"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/LSP.2025.3546885",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Occlusion-Robust Stylization for Drawing-Based 3D Animation",
-   "authors": [
-    "Yoon"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2508.00398",
-   "arxiv_id": "2508.00398",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "PersonaAnimator: Personalized Motion Transfer from Unconstrained Videos",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2508.19895-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "PersonaBooth: Personalized Text-to-Motion Generation",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2503.07390-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Semi-Supervised Character Motion Style Transfer",
-   "authors": [
-    "Zheng"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.3724/sp.j.1089.2023-00385",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Temporal Residual Jacobians for Rig-Free Motion Transfer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://link.springer.com/10.1007/978-3-031-73636-0_6",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Terrain generation using Neural Transfer Style and Fractal Brownian Motion noise with constraints",
-   "authors": [
-    "Cuadros"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.5753/sibgrapi.est.2025.38302",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Topology-Agnostic Animal Motion Generation from Text Prompt",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2512.10352-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "UMSD: High Realism Motion Style Transfer via Unified Mamba-based Diffusion.",
-   "authors": [
-    "Qian"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3746027.3754873",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Volumetric Temporal Texture Synthesis for Smoke Stylization using Neural Cellular Automata",
-   "authors": [
-    "Wang"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2502.09631",
-   "arxiv_id": "2502.09631",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "A Spatially Adaptive Motion Style Transfer Method with Temporal Convolutional Network",
-   "authors": [
-    "Zhang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.3724/sp.j.1089.2024.20083",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://ieeexplore.ieee.org/document/10655462/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model",
+   "title": "Contrastive learning-driven spatiotemporal dynamically adaptive framework for stylized 3D human motion generation",
    "authors": [
     "Song"
    ],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.1109/cvpr52733.2024.00084",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model.",
-   "authors": [
-    "Song"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/CVPR52733.2024.00084",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Contrastive disentanglement for self-supervised motion style transfer.",
-   "authors": [
-    "Wu"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1007/s11042-024-18238-4",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Controlling Cross-Content Motion Style Transfer via Statistical Style Difference.",
-   "authors": [
-    "Kiftiyani"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3681756.3697968",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Decoupling Contact for Fine-Grained Motion Style Transfer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2409.05387-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Decoupling Contact for Fine-Grained Motion Style Transfer.",
-   "authors": [
-    "Tang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3680528.3687609",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Diffusion-based Human Motion Style Transfer with Semantic Guidance",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2405.06646-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Diffusion-based Human Motion Style Transfer with Semantic Guidance.",
-   "authors": [
-    "0008"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1111/cgf.15169",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Generalizing Human Motion Style Transfer Method Based on Metadata-independent Learning.",
-   "authors": [
-    "Era"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3681756.3697890",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2406.06508-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MoST: Motion Style Transformer Between Diverse Action Contents",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2403.06225-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion-STUDiO : Motion Style Transfer Utilized for Dancing Operation by Considering Both Style and Dance Features",
-   "authors": [
-    "Era"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/icce-taiwan62264.2024.10674583",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion-STUDiO : Motion Style Transfer Utilized for Dancing Operation by Considering Both Style and Dance Features.",
-   "authors": [
-    "Era"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/ICCE-Taiwan62264.2024.10674583",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Multi-Head AdaIN Audio-to-Video Motion Style Transfer",
-   "authors": [
-    "Aldausari"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/robio64047.2024.10907605",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Multi-Head AdaIN Audio-to-Video Motion Style Transfer.",
-   "authors": [
-    "Aldausari"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/ROBIO64047.2024.10907605",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "On-the-fly Learning to Transfer Motion Style with Diffusion Models: A Semantic Guidance Approach.",
-   "authors": [
-    "0008"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.48550/arXiv.2405.06646",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Scalable Motion Style Transfer with Constrained Diffusion Generation",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2312.07311-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Scalable Motion Style Transfer with Constrained Diffusion Generation.",
-   "authors": [
-    "Yin"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1609/aaai.v38i9.28889",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2405.02844-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion.",
-   "authors": [
-    "Qian"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.48550/arXiv.2405.02844",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Transferring Human Emotions to Robot Motions using Neural Policy Style Transfer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2402.00663-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Transferring human emotions to robot motions using Neural Policy Style Transfer.",
-   "authors": [
-    "Fernandez-Fernandez"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.48550/arXiv.2402.00663",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing",
-   "authors": [
-    "Bai"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2402.13185",
-   "arxiv_id": "2402.13185",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds",
-   "authors": [
-    "Li"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2407.18946",
-   "arxiv_id": "2407.18946",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Deep Learning-Based Motion Style Transfer Tools, Techniques and Future Challenges.",
-   "authors": [
-    "Akber"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.3390/s23052597",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Enhance Regional Wall Segmentation by Style Transfer for Regional Wall Motion Assessment.",
-   "authors": [
-    "Liu"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "http://proceedings.bmvc2023.org/462/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion.",
-   "authors": [
-    "Song"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/TVCG.2023.3320216",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior",
-   "authors": [
-    "Yang"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2310.01408",
-   "arxiv_id": "2310.01408",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MOCHA: Real-Time Motion Characterization via Context Matching",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://dl.acm.org/doi/10.1145/3610548.3618252",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Res-LGAN for human motion style transfer with more features preserved",
-   "authors": [
-    "Kong"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.3233/jifs-224175",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Res-LGAN for human motion style transfer with more features preserved.",
-   "authors": [
-    "Kong"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.3233/JIFS-224175",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Temporal Consistent Oil Painting Video Stylization",
-   "authors": [
-    "Zhang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/cbbc70324c9e967da83b69881bd6f8386cb02224",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "The Generation of Articulatory Animations Based on Keypoint Detection and Motion Transfer Combined with Image Style Transfer.",
-   "authors": [
-    "Ling"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.3390/computers12080150",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2212.08526-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models.",
-   "authors": [
-    "Chang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.5220/0011631000003417",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "ViSt3D: Video Stylization with 3D CNN",
-   "authors": [
-    "Pande"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/2da5712d32bc93c5826c550c6041027b9ca306aa",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "A video painterly stylization using semantic segmentation",
-   "authors": [
-    "Way"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/5e6b7b0b27701029e10c3b3f066f3355bd931173",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes",
-   "authors": [
-    "Kim"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2206.04382",
-   "arxiv_id": "2206.04382",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Dance Style Transfer with Cross-modal Transformer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2208.09406-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion Puzzle: Arbitrary Motion Style Transfer by Body Part",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2202.05274-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion Puzzle: Arbitrary Motion Style Transfer by Body Part.",
-   "authors": [
-    "Jang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3516429",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion Style Transfer: Modular Low-Rank Adaptation for Deep Motion Forecasting.",
-   "authors": [
-    "Kothari"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://proceedings.mlr.press/v205/kothari23a.html",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Online Motion Style Transfer for Interactive Character Control",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2203.16393-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Online Motion Style Transfer for Interactive Character Control.",
-   "authors": [
-    "Tang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.48550/arXiv.2203.16393",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Real-Time Style Modelling of Human Locomotion via Feature-Wise Transformations and Local Motion Phases",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2201.04439-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2203.02574-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer",
-   "authors": [
-    "Tao"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/cvpr52688.2022.00648",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer.",
-   "authors": [
-    "Tao"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/CVPR52688.2022.00648",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Unpaired Motion Style Transfer with Motion-Oriented Projection Flow Network",
-   "authors": [
-    "Huang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/icme52920.2022.9859776",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Unpaired Motion Style Transfer with Motion-Oriented Projection Flow Network.",
-   "authors": [
-    "Huang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/ICME52920.2022.9859776",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "A Cyclic Consistency Motion Style Transfer Method Combined with Kinematic Constraints.",
-   "authors": [
-    "Wang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1155/2021/5548614",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform",
-   "authors": [
-    "Dong"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/e4b7af97e24723865ed83d256d2205313c4bdda8",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Semi-supervised style transfer mapping-based framework for sEMG-based pattern recognition with 1- or 2-DoF forearm motions.",
-   "authors": [
-    "Kanoga"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1016/j.bspc.2021.102817",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Time-domain Mixup Source Data Augmentation of sEMGs for Motion Recognition towards Efficient Style Transfer Mapping.",
-   "authors": [
-    "Kanoga"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/EMBC46164.2021.9631048",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Adult2child: Motion Style Transfer using CycleGANs",
-   "authors": [
-    "Dong"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3424636.3426909",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Deep Learning Cross-Phase Style Transfer for Motion Artifact Correction in Coronary Computed Tomography Angiography.",
-   "authors": [
-    "Jung"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/ACCESS.2020.2991445",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Neural Pose Transfer by Spatially Adaptive Instance Normalization",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://ieeexplore.ieee.org/document/9156872/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Unpaired Motion Style Transfer from Video to Animation",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2005.05751-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Unpaired motion style transfer from video to animation",
-   "authors": [
-    "Aberman"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3386569.3392469",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Efficient Neural Networks for Real-time Motion Style Transfer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3340254",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Stylistic Locomotion Modeling with Conditional Variational Autoencoder",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.2312/egs.20191002",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Few-shot Learning of Homogeneous Human Locomotion Styles",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1111/cgf.13555",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion-coherent stylization with screen-space image filters",
-   "authors": [
-    "Bléron"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/a0612e6cd4ed6001316a98334941490fb079fb0a",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Pixel-Level Character Motion Style Transfer using Conditional Adversarial Networks",
-   "authors": [
-    "Hu"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3208159.3208161",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Fast Neural Style Transfer for Motion Data",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/MCG.2017.3271464",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Fast Neural Style Transfer for Motion Data",
-   "authors": [
-    "Holden"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/mcg.2017.3271464",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion Style Transfer in Correlated Motion Spaces.",
-   "authors": [
-    "Kilias"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1007/978-3-319-60922-5_18",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "A Deep Learning Framework for Character Motion Synthesis and Editing",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/2897824.2925975",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Spectral Style Transfer for Human Motion between Independent Actions",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/2897824.2925955",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Realtime Style Transfer for Unlabeled Heterogeneous Human Motion",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/2766999",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Style Translation for Human Motion",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/1073204.1073315",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "human motion style transfer",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Contrastive Learning-Driven Spatiotemporal Dynamically Adaptive Framework for Stylized 3D Human Motion Generation",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1371/journal.pone.0337596",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme",
-   "authors": [
-    "Wang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/tvcg.2025.3620400",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme.",
-   "authors": [
-    "Wang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/TVCG.2025.3620400",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Flexible Motion Stylization via Multi-modality Latent Diffusion Model.",
-   "authors": [
-    "Song"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/879df4ecb47406f458bf6b513cdb9099e9acd7f2",
+   "url": "https://www.semanticscholar.org/paper/6e47e7bf5f9e389325058021c5258eaa9f4631a7",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
@@ -2562,56 +2270,34 @@
    ],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.1111/cgf.70563",
+   "url": "https://www.semanticscholar.org/paper/5f4b6483047c030458a9628bb757d363ad41bc65",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
-   "title": "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow",
+   "title": "MSadTalker: Modified Stylized Audio-Driven Single Image Talking Face Animation Based on Head Motion Generation and Visual Silence Detection",
    "authors": [
-    "Li"
+    "Wang"
    ],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.1109/tip.2026.3719481",
+   "url": "https://www.semanticscholar.org/paper/d4f1e76680a3ef646691654da034bcc674b4d532",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
-   "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture Generation.",
+   "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture",
    "authors": [
     "Rosenthal"
    ],
    "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1111/cgf.70557",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Stylized 2D Animation Generation Method Based on Generative Adversarial Networks",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1504/ijart.2026.10077706",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2605.13333-b31b1b.svg",
-   "arxiv_id": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2606.15889",
+   "arxiv_id": "2606.15889",
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
@@ -2630,185 +2316,39 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation.",
-   "authors": [
-    "Jeon"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3799902.3811205",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Text-driven stylized image generation via scene decomposition and consistency constraints",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1117/12.3117020",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "CHARMS: A Cognitive Hierarchical Agent for Reasoning and Motion Stylization in Autonomous Driving",
-   "authors": [
-    "Wang"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2504.02450",
-   "arxiv_id": "2504.02450",
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model.",
+   "title": "ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model",
    "authors": [
     "Qi"
    ],
    "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.48550/arXiv.2503.21144",
-   "arxiv_id": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2503.21144",
+   "arxiv_id": "2503.21144",
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
    "title": "ClusterStyle: Modeling Intra-Style Diversity with Prototypical Clustering for Stylized Motion Generation",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2512.02453-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "ClusterStyle: Modeling Intra-Style Diversity with Prototypical Clustering for Stylized Motion Generation.",
    "authors": [
     "Chen"
    ],
    "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.48550/arXiv.2512.02453",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Diffusion Transformer Framework for Speech-Driven Stylized Gesture Generation",
-   "authors": [
-    "Elmasry"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.5220/0013318400003912",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Dream-in-Style: Text-to-3D Generation Using Stylized Score Distillation",
-   "authors": [
-    "Kompanowski"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/3dv66043.2025.00089",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "LILAC: Long-sequence Incremental Low-latency Arbitrary Motion Stylization via Streaming VAE-Diffusion with Causal Decoding",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2510.15392-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "LILAC: Long-sequence Incremental Low-latency Arbitrary Motion Stylization via Streaming VAE-Diffusion with Causal Decoding",
-   "authors": [
-    "Ren"
-   ],
-   "year": null,
    "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2510.15392",
-   "arxiv_id": "2510.15392",
+   "url": "https://arxiv.org/abs/2512.02453",
+   "arxiv_id": "2512.02453",
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
-   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/ICME59968.2025.11209286",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
+   "title": "DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme",
    "authors": [
-    "Yang"
+    "Wang"
    ],
    "year": null,
    "venue": "",
-   "url": "https://www.semanticscholar.org/paper/5f15864fb6628bb6a3995171e5baf20906f94b05",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
-   "authors": [
-    "Yang"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/icme59968.2025.11209286",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Sast: Semantic-Aware Stylized Text-to-Image Generation",
-   "authors": [
-    "SUN"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.2139/ssrn.5134301",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SMooGPT: Stylized Motion Generation using Large Language Models",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2509.04058-b31b1b.svg",
+   "url": "https://www.semanticscholar.org/paper/bee8676426f120a4be9c49979406528eb00a81d7",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
@@ -2828,30 +2368,6 @@
    "added": "2026-08-27"
   },
   {
-   "title": "SMooGPT: Stylized Motion Generation using Large Language Models.",
-   "authors": [
-    "Zhong"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.48550/arXiv.2509.04058",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2503.21775-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
    "title": "StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion",
    "authors": [
     "Guo"
@@ -2865,13 +2381,216 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Automatic Stylized Action Generation in Animation Using Deep Learning",
+   "title": "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow",
    "authors": [
-    "Su"
+    "Li"
+   ],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2412.09901",
+   "arxiv_id": "2412.09901",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation",
+   "authors": [
+    "Wang"
+   ],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2411.19921",
+   "arxiv_id": "2411.19921",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Sketch-guided stylized landscape cinemagraph synthesis",
+   "authors": [
+    "Jin"
+   ],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2412.00638",
+   "arxiv_id": "2412.00638",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "SMooDi: Stylized Motion Diffusion Model",
+   "authors": [
+    "Zhong"
+   ],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2407.12783",
+   "arxiv_id": "2407.12783",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "RSMT: Real-time Stylized Motion Transition for Characters",
+   "authors": [
+    "Tang"
+   ],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2306.11970",
+   "arxiv_id": "2306.11970",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022",
+   "authors": [
+    "Ghorbani"
    ],
    "year": null,
    "venue": "",
+   "url": "https://www.semanticscholar.org/paper/22d2b8acb9468120caf6435645c318ec90eb551a",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+   "authors": [
+    "Zhang"
+   ],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2211.12194",
+   "arxiv_id": "2211.12194",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Stylized human motion warping method based on identity-independent coordinates",
+   "authors": [
+    "Lyu"
+   ],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/dd3bcb1daa9b8adaf51f1b5c4d9949b941d1c39c",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Influence of Environmental Context on Recognition Rates of Stylized Walking Sequences",
+   "authors": [
+    "Heimerdinger"
+   ],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/0f3a68375ddbb9c25720dd612c074a9ccb216e8b",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Automatic Stylized Action Generation in Animation Using Deep Learning",
+   "authors": [],
+   "year": null,
+   "venue": "",
    "url": "https://doi.org/10.1109/access.2024.3486024",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Autoregressive Stylized Motion Synthesis with Generative Flow",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/CVPR46437.2021.01340",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "CHARMS: A Cognitive Hierarchical Agent for Reasoning and Motion Stylization in Autonomous Driving",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2504.02450",
+   "arxiv_id": "2504.02450",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.48550/arXiv.2503.21144",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Cinematography For Stylized Motion Pictures",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3587421.3595426",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "ClusterStyle: Modeling Intra-Style Diversity with Prototypical Clustering for Stylized Motion Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2512.02453-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "ClusterStyle: Modeling Intra-Style Diversity with Prototypical Clustering for Stylized Motion Generation.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.48550/arXiv.2512.02453",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Content-Preserving Motion Stylization using Variational Autoencoder",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/de04ce8296e17be6cfe2bea6de99d15857f75069",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Contrastive Learning-Driven Spatiotemporal Dynamically Adaptive Framework for Stylized 3D Human Motion Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1371/journal.pone.0337596",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
@@ -2890,13 +2609,88 @@
   },
   {
    "title": "D-LORD for Motion Stylization",
-   "authors": [
-    "Gupta"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2412.04097",
    "arxiv_id": "2412.04097",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Diffusion Transformer Framework for Speech-Driven Stylized Gesture Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.5220/0013318400003912",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/tvcg.2025.3620400",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/TVCG.2025.3620400",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Diverse Motion Stylization for Multiple Style Domains via Spatial-Temporal Graph-Based Generative Model",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3480145",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Diverse Motion Stylization for Multiple Style Domains via Spatial-Temporal Graph-Based Generative Model",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/4a4a5fe9db0a56f0abc418eb82c64edada572e20",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Dream-in-Style: Text-to-3D Generation Using Stylized Score Distillation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/3dv66043.2025.00089",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Flexible Motion Stylization via Multi-modality Latent Diffusion Model.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/879df4ecb47406f458bf6b513cdb9099e9acd7f2",
+   "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
@@ -2914,9 +2708,7 @@
   },
   {
    "title": "Generative Human Motion Stylization in Latent Space",
-   "authors": [
-    "Guo"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2401.13505",
@@ -2938,9 +2730,7 @@
   },
   {
    "title": "Generative Motion Stylization of Cross-structure Characters within Canonical Motion Space",
-   "authors": [
-    "Zhang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2403.11469",
@@ -2951,12 +2741,109 @@
   },
   {
    "title": "Generative Motion Stylization within Canonical Motion Space",
-   "authors": [
-    "Zhang"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://www.semanticscholar.org/paper/bea50c3944db825c3c627fba143f61f597d25f8b",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Guess who? Multilingual Approach For The Automated Generation Of Author-Stylized Poetry",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/slt.2018.8639573",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "LILAC: Long-sequence Incremental Low-latency Arbitrary Motion Stylization via Streaming VAE-Diffusion with Causal Decoding",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2510.15392-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "LILAC: Long-sequence Incremental Low-latency Arbitrary Motion Stylization via Streaming VAE-Diffusion with Causal Decoding",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2510.15392",
+   "arxiv_id": "2510.15392",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/ICME59968.2025.11209286",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/5f15864fb6628bb6a3995171e5baf20906f94b05",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/icme59968.2025.11209286",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Metro Re-illustrated: Incremental Generation of Stylized Paintings Using Neural Networks",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3588028.3603658",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MotionPyramid: Controllable Motion Synthesis via Stylized Phase Manifolds",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1111/cgf.70563",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/tip.2026.3719481",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
@@ -2975,9 +2862,7 @@
   },
   {
    "title": "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow.",
-   "authors": [
-    "0038"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.48550/arXiv.2412.09901",
@@ -2988,9 +2873,7 @@
   },
   {
    "title": "Noisy Pairing and Partial Supervision for Stylized Opinion Summarization",
-   "authors": [
-    "Iso"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.18653/v1/2024.inlg-main.2",
@@ -3000,10 +2883,52 @@
    "added": "2026-08-27"
   },
   {
+   "title": "RSMT: Real-time Stylized Motion Transition for Characters",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2306.11970-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Sast: Semantic-Aware Stylized Text-to-Image Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.2139/ssrn.5134301",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture Generation.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1111/cgf.70557",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Skeleton-free Pose Transfer for Stylized 3D Characters",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2208.00790-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
    "title": "SMEAR: Stylized Motion Exaggeration with ARt-direction",
-   "authors": [
-    "Basset"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://www.semanticscholar.org/paper/0ee5478c851b7df94a89bae583bcd936b960c62c",
@@ -3025,9 +2950,7 @@
   },
   {
    "title": "SMooDi: Stylized Motion Diffusion Model",
-   "authors": [
-    "Zhong"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2407.12783",
@@ -3037,83 +2960,44 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Stylized Public Sculpture",
+   "title": "SMooGPT: Stylized Motion Generation using Large Language Models",
    "authors": [],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.4324/9781003406372-4",
+   "url": "https://img.shields.io/badge/arXiv-2509.04058-b31b1b.svg",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
-   "title": "Cinematography For Stylized Motion Pictures",
+   "title": "SMooGPT: Stylized Motion Generation using Large Language Models",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2509.04058",
+   "arxiv_id": "2509.04058",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "SMooGPT: Stylized Motion Generation using Large Language Models.",
    "authors": [],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.1145/3587421.3595426",
+   "url": "https://doi.org/10.48550/arXiv.2509.04058",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
-   "title": "Content-Preserving Motion Stylization using Variational Autoencoder",
-   "authors": [
-    "Liao"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://www.semanticscholar.org/paper/de04ce8296e17be6cfe2bea6de99d15857f75069",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Metro Re-illustrated: Incremental Generation of Stylized Paintings Using Neural Networks",
-   "authors": [
-    "Shui"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3588028.3603658",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "RSMT: Real-time Stylized Motion Transition for Characters",
+   "title": "Sounds Wilde. Phonetically Extended Embeddings for Author-Stylized Poetry Generation",
    "authors": [],
    "year": null,
    "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2306.11970-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Stylized Dialogue Generation with Feature-Guided Knowledge Augmentation",
-   "authors": [
-    "Li"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.475",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Skeleton-free Pose Transfer for Stylized 3D Characters",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2208.00790-b31b1b.svg",
+   "url": "https://doi.org/10.18653/v1/w18-5813",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
@@ -3121,9 +3005,7 @@
   },
   {
    "title": "Spatial–temporal modeling for prediction of stylized human motion",
-   "authors": [
-    "Zhong"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.1016/j.neucom.2022.08.075",
@@ -3133,35 +3015,33 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Autoregressive Stylized Motion Synthesis with Generative Flow",
+   "title": "StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion",
    "authors": [],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.1109/CVPR46437.2021.01340",
+   "url": "https://img.shields.io/badge/arXiv-2503.21775-b31b1b.svg",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
-   "title": "Diverse Motion Stylization for Multiple Style Domains via Spatial-Temporal Graph-Based Generative Model",
+   "title": "StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion",
    "authors": [],
    "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1145/3480145",
-   "arxiv_id": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2503.21775",
+   "arxiv_id": "2503.21775",
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
-   "title": "Diverse Motion Stylization for Multiple Style Domains via Spatial-Temporal Graph-Based Generative Model",
-   "authors": [
-    "Park"
-   ],
+   "title": "Stylized 2D Animation Generation Method Based on Generative Adversarial Networks",
+   "authors": [],
    "year": null,
    "venue": "",
-   "url": "https://www.semanticscholar.org/paper/4a4a5fe9db0a56f0abc418eb82c64edada572e20",
+   "url": "https://doi.org/10.1504/ijart.2026.10077706",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
@@ -3169,9 +3049,7 @@
   },
   {
    "title": "Stylized Dialogue Generation",
-   "authors": [
-    "Ke"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.1109/ieem50564.2021.9673021",
@@ -3181,10 +3059,19 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Stylized Dialogue Generation with Feature-Guided Knowledge Augmentation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.475",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Stylized Dialogue Response Generation Using Stylized Unpaired Texts",
-   "authors": [
-    "Zheng"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.1609/aaai.v35i16.17711",
@@ -3205,26 +3092,22 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Stylized Text-to-Fashion Image Generation",
-   "authors": [
-    "Zhang"
-   ],
+   "title": "Stylized Jazz Choreography",
+   "authors": [],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.1109/fg52635.2021.9667042",
+   "url": "https://doi.org/10.5040/9781350975125",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
-   "title": "Stylized Text Generation: Approaches and Applications",
-   "authors": [
-    "Mou"
-   ],
+   "title": "Stylized Public Sculpture",
+   "authors": [],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.18653/v1/2020.acl-tutorials.5",
+   "url": "https://doi.org/10.4324/9781003406372-4",
    "arxiv_id": null,
    "source": "seed",
    "category": "Stylized Motion Generation",
@@ -3232,9 +3115,7 @@
   },
   {
    "title": "Stylized Sketch Generation using Convolutional Networks",
-   "authors": [
-    "Hemani"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.24132/csrn.2019.2901.1.5",
@@ -3244,10 +3125,74 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Stylized Text Generation: Approaches and Applications",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.18653/v1/2020.acl-tutorials.5",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Stylized Text-to-Fashion Image Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/fg52635.2021.9667042",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2605.13333-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2605.13333",
+   "arxiv_id": "2605.13333",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1145/3799902.3811205",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Text-driven stylized image generation via scene decomposition and consistency constraints",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1117/12.3117020",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Video motion stylization by 2D rigidification",
-   "authors": [
-    "Delanoy"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://www.semanticscholar.org/paper/f646980a2ce491940a83eeae7ef2d8f5ce5784c4",
@@ -3257,40 +3202,16 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Guess who? Multilingual Approach For The Automated Generation Of Author-Stylized Poetry",
+   "title": "Feasible Stylized Motion: Robotic Manipulator Imitation of a Human Demonstration with Collision Avoidance and Style Parameters in Increasingly Cluttered Environments",
    "authors": [
-    "Tikhonov"
+    "Kaushik"
    ],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.1109/slt.2018.8639573",
+   "url": "https://www.semanticscholar.org/paper/c42bff53c82949286b4b10943eedfa88fc8c5cda",
    "arxiv_id": null,
    "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Sounds Wilde. Phonetically Extended Embeddings for Author-Stylized Poetry Generation",
-   "authors": [
-    "Tikhonov"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.18653/v1/w18-5813",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Stylized Jazz Choreography",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.5040/9781350975125",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
+   "category": "Motion Retargeting & Imitation",
    "added": "2026-08-27"
   },
   {
@@ -3306,35 +3227,11 @@
   },
   {
    "title": "Imitation Learning for Connection-Tableau Construction",
-   "authors": [
-    "Rømming"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2608.26009",
    "arxiv_id": "2608.26009",
-   "source": "seed",
-   "category": "Motion Retargeting & Imitation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "PALUM: Part-based Attention Learning for Unified Motion Retargeting",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2601.07272-b31b1b.svg",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Retargeting & Imitation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Skinned Motion Retargeting with Spatially Adaptive Interaction Guidance",
-   "authors": [],
-   "year": null,
-   "venue": "",
-   "url": "https://img.shields.io/badge/arXiv-2605.19355-b31b1b.svg",
-   "arxiv_id": null,
    "source": "seed",
    "category": "Motion Retargeting & Imitation",
    "added": "2026-08-27"
@@ -3345,6 +3242,17 @@
    "year": null,
    "venue": "",
    "url": "https://img.shields.io/badge/arXiv-2510.13208-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Retargeting & Imitation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "PALUM: Part-based Attention Learning for Unified Motion Retargeting",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2601.07272-b31b1b.svg",
    "arxiv_id": null,
    "source": "seed",
    "category": "Motion Retargeting & Imitation",
@@ -3373,66 +3281,25 @@
    "added": "2026-08-27"
   },
   {
+   "title": "Skinned Motion Retargeting with Spatially Adaptive Interaction Guidance",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://img.shields.io/badge/arXiv-2605.19355-b31b1b.svg",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Retargeting & Imitation",
+   "added": "2026-08-27"
+  },
+  {
    "title": "Generalizing Stylized Motion Generation Method by Introducing Metadata-Independent Learning and Unified Multiple Motion Dataset",
    "authors": [
     "Era"
    ],
    "year": null,
    "venue": "",
-   "url": "https://doi.org/10.1109/tmm.2025.3645612",
+   "url": "https://www.semanticscholar.org/paper/61fcc82b894d46870b60f206864c10d73686e7d1",
    "arxiv_id": null,
-   "source": "seed",
-   "category": "Datasets & Benchmarks",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Generalizing Stylized Motion Generation Method by Introducing Metadata-Independent Learning and Unified Multiple Motion Dataset.",
-   "authors": [
-    "Era"
-   ],
-   "year": null,
-   "venue": "",
-   "url": "https://doi.org/10.1109/TMM.2025.3645612",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Datasets & Benchmarks",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
-   "authors": [
-    "Zi"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2608.26101",
-   "arxiv_id": "2608.26101",
-   "source": "seed",
-   "category": "Datasets & Benchmarks",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation",
-   "authors": [
-    "Kim"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2607.00525",
-   "arxiv_id": "2607.00525",
-   "source": "seed",
-   "category": "Datasets & Benchmarks",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Why ML-based cough models do not generalize: a systematic cross-dataset evaluation for tuberculosis screening",
-   "authors": [
-    "Zhang"
-   ],
-   "year": null,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2608.25846",
-   "arxiv_id": "2608.25846",
    "source": "seed",
    "category": "Datasets & Benchmarks",
    "added": "2026-08-27"
@@ -3444,6 +3311,17 @@
    ],
    "year": null,
    "venue": "",
+   "url": "https://www.semanticscholar.org/paper/d8d9a20ff57575584e9f0f0d71342df5433961f6",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Datasets & Benchmarks",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "GameMLD: A Game-Sourced Motion-Language Dataset for Stylized Motion Generation",
+   "authors": [],
+   "year": null,
+   "venue": "",
    "url": "https://doi.org/10.1109/icme59968.2025.11209164",
    "arxiv_id": null,
    "source": "seed",
@@ -3452,12 +3330,32 @@
   },
   {
    "title": "GameMLD: A Game-Sourced Motion-Language Dataset for Stylized Motion Generation.",
-   "authors": [
-    "Fu"
-   ],
+   "authors": [],
    "year": null,
    "venue": "",
    "url": "https://doi.org/10.1109/ICME59968.2025.11209164",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Datasets & Benchmarks",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Generalizing Stylized Motion Generation Method by Introducing Metadata-Independent Learning and Unified Multiple Motion Dataset",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/tmm.2025.3645612",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Datasets & Benchmarks",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Generalizing Stylized Motion Generation Method by Introducing Metadata-Independent Learning and Unified Multiple Motion Dataset.",
+   "authors": [],
+   "year": null,
+   "venue": "",
+   "url": "https://doi.org/10.1109/TMM.2025.3645612",
    "arxiv_id": null,
    "source": "seed",
    "category": "Datasets & Benchmarks",
@@ -3476,9 +3374,7 @@
   },
   {
    "title": "Motion Capture Dataset for Practical Use of AI-based Motion Editing and Stylization",
-   "authors": [
-    "Kobayashi"
-   ],
+   "authors": [],
    "year": null,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2306.08861",
@@ -3488,438 +3384,36 @@
    "added": "2026-08-27"
   },
   {
-   "title": "SMooGPT: Stylized Motion Generation using Large Language Models",
-   "authors": [
-    "Lei Zhong",
-    "Yi Yang",
-    "Changjian Li"
-   ],
-   "year": 2025,
-   "venue": "arXiv.org",
-   "url": "https://www.semanticscholar.org/paper/5569e08fd9a9451d92c2056b91ef215edc162e44",
-   "arxiv_id": "2509.04058",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme",
-   "authors": [
-    "Yatian Wang",
-    "Haoran Mo",
-    "Chengying Gao"
-   ],
-   "year": 2025,
-   "venue": "IEEE Transactions on Visualization and Computer Graphics",
-   "url": "https://www.semanticscholar.org/paper/bee8676426f120a4be9c49979406528eb00a81d7",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "ClusterStyle: Modeling Intra-Style Diversity with Prototypical Clustering for Stylized Motion Generation",
-   "authors": [
-    "Kerui Chen",
-    "Jianrong Zhang",
-    "Ming Li",
-    "Zhonglong Zheng",
-    "Hehe Fan"
-   ],
-   "year": 2025,
-   "venue": "arXiv.org",
-   "url": "https://www.semanticscholar.org/paper/fe72b0a678e1e95890c24bf241f1f59346eac6a0",
-   "arxiv_id": "2512.02453",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow",
-   "authors": [
-    "Zhe Li",
-    "Yisheng He",
-    "Lei Zhong",
-    "Weichao Shen",
-    "Qi Zuo",
-    "Lingteng Qiu",
-    "Shenhao Zhu",
-    "Zilong Dong",
-    "Laurence T. Yang",
-    "Chang Xu",
-    "Weihao Yuan"
-   ],
-   "year": 2024,
-   "venue": "IEEE Transactions on Image Processing",
-   "url": "https://www.semanticscholar.org/paper/16760e430ad2d38ab2236000e65f83a9eda102be",
-   "arxiv_id": "2412.09901",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "GameMLD: A Game-Sourced Motion-Language Dataset for Stylized Motion Generation",
-   "authors": [
-    "Yiyu Fu",
-    "Ziming Cheng",
-    "Yihao Liao",
-    "Jiangfeiyang Wang",
-    "Ruomei Wang",
-    "Guanghui Yue",
-    "Chenlei Lv",
-    "Baoquan Zhao"
-   ],
-   "year": 2025,
-   "venue": "IEEE International Conference on Multimedia and Expo",
-   "url": "https://www.semanticscholar.org/paper/d8d9a20ff57575584e9f0f0d71342df5433961f6",
-   "arxiv_id": null,
-   "source": "s2",
+   "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2608.26101",
+   "arxiv_id": "2608.26101",
+   "source": "seed",
    "category": "Datasets & Benchmarks",
    "added": "2026-08-27"
   },
   {
-   "title": "Generalizing Stylized Motion Generation Method by Introducing Metadata-Independent Learning and Unified Multiple Motion Dataset",
-   "authors": [
-    "Yuki Era",
-    "Ren Togo",
-    "Keiske Maeda",
-    "Takahiro Ogawa",
-    "M. Haseyama"
-   ],
-   "year": 2026,
-   "venue": "IEEE transactions on multimedia",
-   "url": "https://www.semanticscholar.org/paper/61fcc82b894d46870b60f206864c10d73686e7d1",
-   "arxiv_id": null,
-   "source": "s2",
+   "title": "SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2607.00525",
+   "arxiv_id": "2607.00525",
+   "source": "seed",
    "category": "Datasets & Benchmarks",
    "added": "2026-08-27"
   },
   {
-   "title": "ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model",
-   "authors": [
-    "Jinwei Qi",
-    "Chaonan Ji",
-    "Sheng Xu",
-    "Peng Zhang",
-    "Bang Zhang",
-    "Liefeng Bo"
-   ],
-   "year": 2025,
-   "venue": "arXiv.org",
-   "url": "https://www.semanticscholar.org/paper/9045629ae00382f73ffd3a8c4772aa4858260c27",
-   "arxiv_id": "2503.21144",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SMooDi: Stylized Motion Diffusion Model",
-   "authors": [
-    "Lei Zhong",
-    "Yiming Xie",
-    "Varun Jampani",
-    "Deqing Sun",
-    "Huaizu Jiang"
-   ],
-   "year": 2024,
-   "venue": "European Conference on Computer Vision",
-   "url": "https://www.semanticscholar.org/paper/42b3728c96b2ad1ffe702ed5c692f35037d61690",
-   "arxiv_id": "2407.12783",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Contrastive learning-driven spatiotemporal dynamically adaptive framework for stylized 3D human motion generation",
-   "authors": [
-    "Zhiqiang Song",
-    "Ruyan Zhang",
-    "Shuang Li",
-    "Chao Liu"
-   ],
-   "year": 2026,
-   "venue": "PLoS ONE",
-   "url": "https://www.semanticscholar.org/paper/6e47e7bf5f9e389325058021c5258eaa9f4631a7",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MSadTalker: Modified Stylized Audio-Driven Single Image Talking Face Animation Based on Head Motion Generation and Visual Silence Detection",
-   "authors": [
-    "Yuanlin Wang",
-    "Wen He",
-    "Qijun Yao",
-    "Jichen Yang"
-   ],
-   "year": 2026,
-   "venue": "Innovative Applications of AI",
-   "url": "https://www.semanticscholar.org/paper/d4f1e76680a3ef646691654da034bcc674b4d532",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "RSMT: Real-time Stylized Motion Transition for Characters",
-   "authors": [
-    "Xiangjun Tang",
-    "Linjun Wu",
-    "He Wang",
-    "Bo Hu",
-    "Xu Gong",
-    "Yuchen Liao",
-    "Songnan Li",
-    "Qilong Kou",
-    "Xiaogang Jin"
-   ],
-   "year": 2023,
-   "venue": "International Conference on Computer Graphics and Interactive Techniques",
-   "url": "https://www.semanticscholar.org/paper/5ba9dee6527b0b926f000440e8d82d30098dd9cb",
-   "arxiv_id": "2306.11970",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation",
-   "authors": [
-    "Junhyuk Jeon",
-    "Seokhyeon Hong",
-    "J. Noh"
-   ],
-   "year": 2026,
-   "venue": "International Conference on Computer Graphics and Interactive Techniques",
-   "url": "https://www.semanticscholar.org/paper/5460ecd146934e4a17c446eedc918a1e7d407669",
-   "arxiv_id": "2605.13333",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
-   "authors": [
-    "Wenxuan Zhang",
-    "Xiaodong Cun",
-    "Xuan Wang",
-    "Yong Zhang",
-    "Xiaodong Shen",
-    "Yu Guo",
-    "Ying Shan",
-    "Fei Wang"
-   ],
-   "year": 2022,
-   "venue": "Computer Vision and Pattern Recognition",
-   "url": "https://www.semanticscholar.org/paper/a7019f9a2ecb9983b66456ae32978e2574625980",
-   "arxiv_id": "2211.12194",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation",
-   "authors": [
-    "Wenjia Wang",
-    "Liang Pan",
-    "Zhiyang Dou",
-    "Zhouyingcheng Liao",
-    "Yuke Lou",
-    "Lei Yang",
-    "Jingbo Wang",
-    "Taku Komura"
-   ],
-   "year": 2024,
-   "venue": "IEEE International Conference on Computer Vision",
-   "url": "https://www.semanticscholar.org/paper/64d8d190b56cebe0305408c83c42c0b222baf628",
-   "arxiv_id": "2411.19921",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MotionPyramid: Controllable Motion Synthesis via Stylized Phase Manifolds",
-   "authors": [
-    "Jingyuan Li",
-    "Peizhuo Li",
-    "A. Aristidou",
-    "O. Sorkine-Hornung"
-   ],
-   "year": 2026,
-   "venue": "Computer graphics forum (Print)",
-   "url": "https://www.semanticscholar.org/paper/5f4b6483047c030458a9628bb757d363ad41bc65",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture",
-   "authors": [
-    "A. Rosenthal",
-    "T. Koren",
-    "Nadav Shaked",
-    "Doron Friedman",
-    "Ariel Shamir"
-   ],
-   "year": 2026,
-   "venue": "Computer graphics forum (Print)",
-   "url": "https://www.semanticscholar.org/paper/55c8e532f4e974bd4c3c2df877916dd04581ac55",
-   "arxiv_id": "2606.15889",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Feasible Stylized Motion: Robotic Manipulator Imitation of a Human Demonstration with Collision Avoidance and Style Parameters in Increasingly Cluttered Environments",
-   "authors": [
-    "R. Kaushik",
-    "Anant Kumar Mishra",
-    "A. LaViers"
-   ],
-   "year": 2020,
-   "venue": "MOCO",
-   "url": "https://www.semanticscholar.org/paper/c42bff53c82949286b4b10943eedfa88fc8c5cda",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Motion Retargeting & Imitation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022",
-   "authors": [
-    "Saeed Ghorbani",
-    "Ylva Ferstl",
-    "M. Carbonneau"
-   ],
-   "year": 2022,
-   "venue": "International Conference on Multimodal Interaction",
-   "url": "https://www.semanticscholar.org/paper/22d2b8acb9468120caf6435645c318ec90eb551a",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Stylized human motion warping method based on identity-independent coordinates",
-   "authors": [
-    "Lei Lyu",
-    "Jinling Zhang"
-   ],
-   "year": 2019,
-   "venue": "Soft Computing - A Fusion of Foundations, Methodologies and Applications",
-   "url": "https://www.semanticscholar.org/paper/dd3bcb1daa9b8adaf51f1b5c4d9949b941d1c39c",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Sketch-guided stylized landscape cinemagraph synthesis",
-   "authors": [
-    "Hao Jin",
-    "Hengyuan Chang",
-    "Xiaoxuan Xie",
-    "Zhengyang Wang",
-    "Xu Du",
-    "Shaojun Hu",
-    "Haoran Xie"
-   ],
-   "year": 2024,
-   "venue": "Computers & graphics",
-   "url": "https://www.semanticscholar.org/paper/cfb2810783f48cf8fbe89c1af45514f951204e15",
-   "arxiv_id": "2412.00638",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion",
-   "authors": [
-    "Ziyu Guo",
-    "Young Yoon Lee",
-    "Joseph Liu",
-    "Yizhak Ben-Shabat",
-    "Victor Zordan",
-    "Mubbasir Kapadia"
-   ],
-   "year": 2025,
-   "venue": "IEEE International Conference on Computer Vision",
-   "url": "https://www.semanticscholar.org/paper/2c61b877169994a339cdec8ce8dc7200358992f9",
-   "arxiv_id": "2503.21775",
-   "source": "s2",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MSTDF: Motion Style Transfer Towards High Visual Fidelity Based on Dynamic Fusion",
-   "authors": [
-    "Ziyun Qian",
-    "Dingkang Yang",
-    "Mingcheng Li",
-    "Zeyu Xiao",
-    "Lihua Zhang"
-   ],
-   "year": 2025,
-   "venue": "IEEE Signal Processing Letters",
-   "url": "https://www.semanticscholar.org/paper/7631929738805554775a341aaa0d5163c5c30294",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots",
-   "authors": [
-    "Tianchen Huang",
-    "Mingkuan Zhao",
-    "Yang Gao",
-    "Feiyang Yuan",
-    "Junchi Gu",
-    "Xiaohu Zhang",
-    "Dongdong Zhao",
-    "Shizhang Yan",
-    "Yu Wang",
-    "Wei Gao",
-    "Shiwu Zhang"
-   ],
-   "year": 2026,
-   "venue": "arXiv.org",
-   "url": "https://www.semanticscholar.org/paper/a221cc9b5d8d5bb5b57bd3d6102c7b2dcd1b16d2",
-   "arxiv_id": "2606.03536",
-   "source": "s2",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Res-LGAN for human motion style transfer with more features preserved",
-   "authors": [
-    "Yue Kong",
-    "Huaijiang Sun",
-    "Qiongjie Cui",
-    "Jian Pan",
-    "Yanmeng Li"
-   ],
-   "year": 2023,
-   "venue": "Journal of Intelligent & Fuzzy Systems",
-   "url": "https://www.semanticscholar.org/paper/3c56d501c4c380a0fb96e44c9a78df5e54092630",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Influence of Environmental Context on Recognition Rates of Stylized Walking Sequences",
-   "authors": [
-    "Madison Heimerdinger",
-    "A. LaViers"
-   ],
-   "year": 2017,
-   "venue": "International Conference on Software Reuse",
-   "url": "https://www.semanticscholar.org/paper/0f3a68375ddbb9c25720dd612c074a9ccb216e8b",
-   "arxiv_id": null,
-   "source": "s2",
-   "category": "Stylized Motion Generation",
+   "title": "Why ML-based cough models do not generalize: a systematic cross-dataset evaluation for tuberculosis screening",
+   "authors": [],
+   "year": null,
+   "venue": "arXiv",
+   "url": "https://arxiv.org/abs/2608.25846",
+   "arxiv_id": "2608.25846",
+   "source": "seed",
+   "category": "Datasets & Benchmarks",
    "added": "2026-08-27"
   }
  ]
