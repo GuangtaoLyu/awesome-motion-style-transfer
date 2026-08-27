@@ -1,0 +1,42 @@
+{
+  "display_name": "Awesome Motion Style Transfer",
+  "description": "A curated, auto-updated list of human motion style transfer and stylized motion generation papers.",
+  "year_from": 2015,
+  "must_include": [
+    "motion style",
+    "styliz",
+    "style-based",
+    "style-conditioned",
+    "style controllable",
+    "motion stylization"
+  ],
+  "queries": {
+    "arxiv": [
+      "motion style transfer",
+      "stylized human motion generation",
+      "human motion style transfer learning"
+    ],
+    "dblp": [
+      "motion style transfer",
+      "stylized motion generation",
+      "motion style transfer"
+    ],
+    "s2": [
+      "human motion style transfer",
+      "stylized motion generation",
+      "motion stylization"
+    ],
+    "crossref": [
+      "motion style transfer",
+      "stylized motion generation"
+    ]
+  },
+  "taxonomy": [
+    "Motion Style Transfer",
+    "Stylized Motion Generation",
+    "Motion Retargeting & Imitation",
+    "Datasets & Benchmarks",
+    "Surveys"
+  ],
+  "default_category": "Motion Style Transfer"
+}
