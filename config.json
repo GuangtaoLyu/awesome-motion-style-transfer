@@ -38,10 +38,5 @@
     "Datasets & Benchmarks",
     "Surveys"
   ],
-  "default_category": "Motion Style Transfer",
-  "author_citations": {
-    "author_name": "Guangtao Lyu",
-    "papers": [],
-    "note": "本列表（Motion Style Transfer）当前尚未收录作者（Guangtao Lyu）署名的论文。如有相关风格迁移 / 风格化生成工作，欢迎补充。"
-  }
+  "default_category": "Motion Style Transfer"
 }

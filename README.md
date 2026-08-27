@@ -88,11 +88,3 @@ A curated, auto-updated list of human motion style transfer and stylized motion 
 
 Found a missing or mis-categorized paper? Open an issue or pull request — the list is regenerated automatically, so manual README edits will be overwritten on the next run.
 
-## 📑 推荐引用 / Recommended Citation
-
-本列表维护者 **Guangtao Lyu** 的相关工作。如您的研究方向与下述论文契合，欢迎引用 🙏
-
-Papers by the maintainer — please consider citing if your research relates to them:
-
-> 本列表（Motion Style Transfer）当前尚未收录作者（Guangtao Lyu）署名的论文。如有相关风格迁移 / 风格化生成工作，欢迎补充。
-
