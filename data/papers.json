@@ -53,19 +53,6 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation",
-   "authors": [
-    "Jeon"
-   ],
-   "year": 2026,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2605.13333",
-   "arxiv_id": "2605.13333",
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
    "title": "Contrastive Learning-Driven Spatiotemporal Dynamically Adaptive Framework for Stylized 3D Human Motion Generation",
    "authors": [
     "Song"
@@ -235,19 +222,6 @@
    "added": "2026-08-27"
   },
   {
-   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
-   "authors": [
-    "Yang"
-   ],
-   "year": 2025,
-   "venue": "ICME",
-   "url": "https://doi.org/10.1109/ICME59968.2025.11209286",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-27"
-  },
-  {
    "title": "StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion",
    "authors": [
     "Guo"
@@ -297,19 +271,6 @@
    "arxiv_id": null,
    "source": "seed",
    "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow",
-   "authors": [
-    "Li"
-   ],
-   "year": 2024,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2412.09901",
-   "arxiv_id": "2412.09901",
-   "source": "seed",
-   "category": "Stylized Motion Generation",
    "added": "2026-08-27"
   },
   {
@@ -443,19 +404,6 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Scalable Motion Style Transfer with Constrained Diffusion Generation",
-   "authors": [
-    "Yin"
-   ],
-   "year": 2024,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2312.07311",
-   "arxiv_id": "2312.07311",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
    "title": "Semantics-Aware Motion Retargeting with Vision-Language Models",
    "authors": [
     "Zhang"
@@ -466,19 +414,6 @@
    "arxiv_id": null,
    "source": "seed",
    "category": "Motion Retargeting & Imitation",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model",
-   "authors": [
-    "Song"
-   ],
-   "year": 2024,
-   "venue": "CVPR",
-   "url": "https://ieeexplore.ieee.org/document/10655462/",
-   "arxiv_id": null,
-   "source": "seed",
-   "category": "Motion Style Transfer",
    "added": "2026-08-27"
   },
   {
@@ -573,32 +508,6 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer",
-   "authors": [
-    "Tao"
-   ],
-   "year": 2022,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2203.02574",
-   "arxiv_id": "2203.02574",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
-   "title": "Motion Puzzle: Arbitrary Motion Style Transfer by Body Part",
-   "authors": [
-    "Jang"
-   ],
-   "year": 2022,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2202.05274",
-   "arxiv_id": "2202.05274",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
    "title": "Real-Time Style Modelling of Human Locomotion via Feature-Wise Transformations and Local Motion Phases",
    "authors": [
     "Mason"
@@ -638,24 +547,11 @@
    "added": "2026-08-27"
   },
   {
-   "title": "Unpaired Motion Style Transfer from Video to Animation",
-   "authors": [
-    "Aberman"
-   ],
-   "year": 2005,
-   "venue": "arXiv",
-   "url": "https://arxiv.org/abs/2005.05751",
-   "arxiv_id": "2005.05751",
-   "source": "seed",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-27"
-  },
-  {
    "title": "Skeleton-Aware Networks for Deep Motion Retargeting",
    "authors": [
     "Aberman"
    ],
-   "year": 2005,
+   "year": 2020,
    "venue": "arXiv",
    "url": "https://arxiv.org/abs/2005.05732",
    "arxiv_id": "2005.05732",
@@ -829,22 +725,6 @@
    "added": "2026-08-31"
   },
   {
-   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer",
-   "authors": [
-    "Tianxin Tao",
-    "Xiaohang Zhan",
-    "Zhongquan Chen",
-    "Michiel van de Panne"
-   ],
-   "year": 2022,
-   "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-   "url": "https://doi.org/10.1109/cvpr52688.2022.00648",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-31"
-  },
-  {
    "title": "AC-Motion: High-Quality Arbitrary Motion Style Transfer with Local Channel Modulation and Adaptive Attention",
    "authors": [
     "Xinjie Chen",
@@ -898,26 +778,6 @@
    "year": 2018,
    "venue": "Proceedings of Computer Graphics International 2018",
    "url": "https://doi.org/10.1145/3208159.3208161",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-31"
-  },
-  {
-   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model",
-   "authors": [
-    "Wenfeng Song",
-    "Xingliang Jin",
-    "Shuai Li",
-    "Chenglizhao Chen",
-    "Aimin Hao",
-    "Xia Hou",
-    "Ning Li",
-    "Hong Qin"
-   ],
-   "year": 2024,
-   "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-   "url": "https://doi.org/10.1109/cvpr52733.2024.00084",
    "arxiv_id": null,
    "source": "crossref",
    "category": "Motion Style Transfer",
@@ -1002,21 +862,6 @@
    "added": "2026-08-31"
   },
   {
-   "title": "Motion Puzzle: Arbitrary Motion Style Transfer by Body Part",
-   "authors": [
-    "Deok-Kyeong Jang",
-    "Soomin Park",
-    "Sung-Hee Lee"
-   ],
-   "year": 2022,
-   "venue": "ACM Transactions on Graphics",
-   "url": "https://doi.org/10.1145/3516429",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-31"
-  },
-  {
    "title": "MAFD: Fine-Grained Motion Style Transfer with Adaptive Signal Fusion",
    "authors": [
     "Ziyun Qian",
@@ -1028,40 +873,6 @@
    "year": 2025,
    "venue": "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
    "url": "https://doi.org/10.1109/icassp49660.2025.10889410",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-31"
-  },
-  {
-   "title": "Unpaired motion style transfer from video to animation",
-   "authors": [
-    "Kfir Aberman",
-    "Yijia Weng",
-    "Dani Lischinski",
-    "Daniel Cohen-Or",
-    "Baoquan Chen"
-   ],
-   "year": 2020,
-   "venue": "ACM Transactions on Graphics",
-   "url": "https://doi.org/10.1145/3386569.3392469",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Motion Style Transfer",
-   "added": "2026-08-31"
-  },
-  {
-   "title": "Scalable Motion Style Transfer with Constrained Diffusion Generation",
-   "authors": [
-    "Wenjie Yin",
-    "Yi Yu",
-    "Hang Yin",
-    "Danica Kragic",
-    "Mårten Björkman"
-   ],
-   "year": 2024,
-   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
-   "url": "https://doi.org/10.1609/aaai.v38i9.28889",
    "arxiv_id": null,
    "source": "crossref",
    "category": "Motion Style Transfer",
@@ -1196,21 +1007,6 @@
    "added": "2026-08-31"
   },
   {
-   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation",
-   "authors": [
-    "Junhyuk Jeon",
-    "Seokhyeon Hong",
-    "Junyong Noh"
-   ],
-   "year": 2026,
-   "venue": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers",
-   "url": "https://doi.org/10.1145/3799902.3811205",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-31"
-  },
-  {
    "title": "Stylized Dialogue Response Generation Using Stylized Unpaired Texts",
    "authors": [
     "Yinhe Zheng",
@@ -1263,27 +1059,6 @@
    "added": "2026-08-31"
   },
   {
-   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
-   "authors": [
-    "Yi Yang",
-    "Xinzhu Li",
-    "Yufeng Chen",
-    "Guanghui Yue",
-    "Wei Zhou",
-    "Zhuo Su",
-    "Ruomei Wang",
-    "Fan Zhou",
-    "Baoquan Zhao"
-   ],
-   "year": 2025,
-   "venue": "2025 IEEE International Conference on Multimedia and Expo (ICME)",
-   "url": "https://doi.org/10.1109/icme59968.2025.11209286",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-31"
-  },
-  {
    "title": "Stylized Jazz Choreography",
    "authors": [],
    "year": 2016,
@@ -1304,29 +1079,6 @@
    "year": 2026,
    "venue": "IEEE Transactions on Visualization and Computer Graphics",
    "url": "https://doi.org/10.1109/tvcg.2025.3620400",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-31"
-  },
-  {
-   "title": "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow",
-   "authors": [
-    "Zhe Li",
-    "Yisheng He",
-    "Lei Zhong",
-    "Weichao Shen",
-    "Qi Zuo",
-    "Lingteng Qiu",
-    "Shenhao Zhu",
-    "Zilong Dong",
-    "Laurence T. Yang",
-    "Chang Xu",
-    "Weihao Yuan"
-   ],
-   "year": 2026,
-   "venue": "IEEE Transactions on Image Processing",
-   "url": "https://doi.org/10.1109/tip.2026.3719481",
    "arxiv_id": null,
    "source": "crossref",
    "category": "Stylized Motion Generation",
@@ -1558,6 +1310,110 @@
    "source": "crossref",
    "category": "Stylized Motion Generation",
    "added": "2026-08-31"
+  },
+  {
+   "title": "Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation",
+   "authors": [
+    "Jeon"
+   ],
+   "year": 2026,
+   "venue": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers",
+   "url": "https://arxiv.org/abs/2605.13333",
+   "arxiv_id": "2605.13333",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MCSMoG: Multi-Conditional Diffusion for Stylized Motion Generation with Parametric Control",
+   "authors": [
+    "Yang"
+   ],
+   "year": 2025,
+   "venue": "ICME",
+   "url": "https://doi.org/10.1109/ICME59968.2025.11209286",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow",
+   "authors": [
+    "Li"
+   ],
+   "year": 2024,
+   "venue": "IEEE Transactions on Image Processing",
+   "url": "https://arxiv.org/abs/2412.09901",
+   "arxiv_id": "2412.09901",
+   "source": "seed",
+   "category": "Stylized Motion Generation",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Scalable Motion Style Transfer with Constrained Diffusion Generation",
+   "authors": [
+    "Yin"
+   ],
+   "year": 2024,
+   "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "url": "https://arxiv.org/abs/2312.07311",
+   "arxiv_id": "2312.07311",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Arbitrary Motion Style Transfer with Multi-Condition Motion Latent Diffusion Model",
+   "authors": [
+    "Song"
+   ],
+   "year": 2024,
+   "venue": "CVPR",
+   "url": "https://ieeexplore.ieee.org/document/10655462/",
+   "arxiv_id": null,
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Style-ERD: Responsive and Coherent Online Motion Style Transfer",
+   "authors": [
+    "Tao"
+   ],
+   "year": 2022,
+   "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+   "url": "https://arxiv.org/abs/2203.02574",
+   "arxiv_id": "2203.02574",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Motion Puzzle: Arbitrary Motion Style Transfer by Body Part",
+   "authors": [
+    "Jang"
+   ],
+   "year": 2022,
+   "venue": "ACM Transactions on Graphics",
+   "url": "https://arxiv.org/abs/2202.05274",
+   "arxiv_id": "2202.05274",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
+  },
+  {
+   "title": "Unpaired Motion Style Transfer from Video to Animation",
+   "authors": [
+    "Aberman"
+   ],
+   "year": 2020,
+   "venue": "ACM Transactions on Graphics",
+   "url": "https://arxiv.org/abs/2005.05751",
+   "arxiv_id": "2005.05751",
+   "source": "seed",
+   "category": "Motion Style Transfer",
+   "added": "2026-08-27"
   }
  ]
 }
