@@ -947,23 +947,6 @@
    "added": "2026-08-31"
   },
   {
-   "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture Generation",
-   "authors": [
-    "Adi Rosenthal",
-    "Tomer Koren",
-    "Nadav Shaked",
-    "Doron Friedman",
-    "Ariel Shamir"
-   ],
-   "year": 2026,
-   "venue": "Computer Graphics Forum",
-   "url": "https://doi.org/10.1111/cgf.70557",
-   "arxiv_id": null,
-   "source": "crossref",
-   "category": "Stylized Motion Generation",
-   "added": "2026-08-31"
-  },
-  {
    "title": "Cinematography For Stylized Motion Pictures",
    "authors": [
     "Christos Obretenov"
@@ -1414,6 +1397,206 @@
    "source": "seed",
    "category": "Motion Style Transfer",
    "added": "2026-08-27"
+  },
+  {
+   "title": "ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model",
+   "authors": [
+    "Jinwei Qi",
+    "Chaonan Ji",
+    "Sheng Xu",
+    "Peng Zhang",
+    "Bang Zhang",
+    "Liefeng Bo"
+   ],
+   "year": 2025,
+   "venue": "arXiv.org",
+   "url": "https://www.semanticscholar.org/paper/9045629ae00382f73ffd3a8c4772aa4858260c27",
+   "arxiv_id": "2503.21144",
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "MSadTalker: Modified Stylized Audio-Driven Single Image Talking Face Animation Based on Head Motion Generation and Visual Silence Detection",
+   "authors": [
+    "Yuanlin Wang",
+    "Wen He",
+    "Qijun Yao",
+    "Jichen Yang"
+   ],
+   "year": 2026,
+   "venue": "Innovative Applications of AI",
+   "url": "https://www.semanticscholar.org/paper/d4f1e76680a3ef646691654da034bcc674b4d532",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "SMEAR: Stylized Motion Exaggeration with ARt-direction",
+   "authors": [
+    "Jean Basset",
+    "P. Bénard",
+    "Pascal Barla"
+   ],
+   "year": 2024,
+   "venue": "International Conference on Computer Graphics and Interactive Techniques",
+   "url": "https://www.semanticscholar.org/paper/0ee5478c851b7df94a89bae583bcd936b960c62c",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+   "authors": [
+    "Wenxuan Zhang",
+    "Xiaodong Cun",
+    "Xuan Wang",
+    "Yong Zhang",
+    "Xiaodong Shen",
+    "Yu Guo",
+    "Ying Shan",
+    "Fei Wang"
+   ],
+   "year": 2022,
+   "venue": "Computer Vision and Pattern Recognition",
+   "url": "https://www.semanticscholar.org/paper/a7019f9a2ecb9983b66456ae32978e2574625980",
+   "arxiv_id": "2211.12194",
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation",
+   "authors": [
+    "Wenjia Wang",
+    "Liang Pan",
+    "Zhiyang Dou",
+    "Zhouyingcheng Liao",
+    "Yuke Lou",
+    "Lei Yang",
+    "Jingbo Wang",
+    "Taku Komura"
+   ],
+   "year": 2024,
+   "venue": "IEEE International Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/64d8d190b56cebe0305408c83c42c0b222baf628",
+   "arxiv_id": "2411.19921",
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "Feasible Stylized Motion: Robotic Manipulator Imitation of a Human Demonstration with Collision Avoidance and Style Parameters in Increasingly Cluttered Environments",
+   "authors": [
+    "R. Kaushik",
+    "Anant Kumar Mishra",
+    "A. LaViers"
+   ],
+   "year": 2020,
+   "venue": "MOCO",
+   "url": "https://www.semanticscholar.org/paper/c42bff53c82949286b4b10943eedfa88fc8c5cda",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Retargeting & Imitation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022",
+   "authors": [
+    "Saeed Ghorbani",
+    "Ylva Ferstl",
+    "M. Carbonneau"
+   ],
+   "year": 2022,
+   "venue": "International Conference on Multimodal Interaction",
+   "url": "https://www.semanticscholar.org/paper/22d2b8acb9468120caf6435645c318ec90eb551a",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "Stylized human motion warping method based on identity-independent coordinates",
+   "authors": [
+    "Lei Lyu",
+    "Jinling Zhang"
+   ],
+   "year": 2019,
+   "venue": "Soft Computing - A Fusion of Foundations, Methodologies and Applications",
+   "url": "https://www.semanticscholar.org/paper/dd3bcb1daa9b8adaf51f1b5c4d9949b941d1c39c",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "Sketch-guided stylized landscape cinemagraph synthesis",
+   "authors": [
+    "Hao Jin",
+    "Hengyuan Chang",
+    "Xiaoxuan Xie",
+    "Zhengyang Wang",
+    "Xu Du",
+    "Shaojun Hu",
+    "Haoran Xie"
+   ],
+   "year": 2024,
+   "venue": "Computers & graphics",
+   "url": "https://www.semanticscholar.org/paper/cfb2810783f48cf8fbe89c1af45514f951204e15",
+   "arxiv_id": "2412.00638",
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "MSTDF: Motion Style Transfer Towards High Visual Fidelity Based on Dynamic Fusion",
+   "authors": [
+    "Ziyun Qian",
+    "Dingkang Yang",
+    "Mingcheng Li",
+    "Zeyu Xiao",
+    "Lihua Zhang"
+   ],
+   "year": 2025,
+   "venue": "IEEE Signal Processing Letters",
+   "url": "https://www.semanticscholar.org/paper/7631929738805554775a341aaa0d5163c5c30294",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "Influence of Environmental Context on Recognition Rates of Stylized Walking Sequences",
+   "authors": [
+    "Madison Heimerdinger",
+    "A. LaViers"
+   ],
+   "year": 2017,
+   "venue": "International Conference on Software Reuse",
+   "url": "https://www.semanticscholar.org/paper/0f3a68375ddbb9c25720dd612c074a9ccb216e8b",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
+  },
+  {
+   "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture",
+   "authors": [
+    "A. Rosenthal",
+    "T. Koren",
+    "Nadav Shaked",
+    "Doron Friedman",
+    "Ariel Shamir"
+   ],
+   "year": 2026,
+   "venue": "Computer graphics forum (Print)",
+   "url": "https://arxiv.org/abs/2606.15889",
+   "arxiv_id": "2606.15889",
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-09-07"
   }
  ]
 }
