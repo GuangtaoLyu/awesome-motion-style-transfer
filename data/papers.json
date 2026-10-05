@@ -1582,6 +1582,314 @@
    "added": "2026-09-07"
   },
   {
+   "title": "CHARMS: A Cognitive Hierarchical Agent for Reasoning and Motion Stylization in Autonomous Driving",
+   "authors": [
+    "Jing-Yi Wang",
+    "Duan-Feng Chu",
+    "Ze-Jian Deng",
+    "Liping Lu",
+    "Jin-Xiang Wang",
+    "Chen Sun"
+   ],
+   "year": 2025,
+   "venue": "2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)",
+   "url": "https://www.semanticscholar.org/paper/9843ce4759cddce7cb856a4f3c4b5967d2384d81",
+   "arxiv_id": "2504.02450",
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Generative Motion Stylization within Canonical Motion Space",
+   "authors": [
+    "Jiaxu Zhang",
+    "Xin Chen",
+    "Gang Yu",
+    "Zhi-Gang Tu"
+   ],
+   "year": 2024,
+   "venue": "arXiv.org",
+   "url": "https://www.semanticscholar.org/paper/bea50c3944db825c3c627fba143f61f597d25f8b",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Content-Preserving Motion Stylization using Variational Autoencoder",
+   "authors": [
+    "Chen-Chieh Liao",
+    "Jong-Hwan Kim",
+    "H. Koike",
+    "D. Hwang"
+   ],
+   "year": 2023,
+   "venue": "SIGGRAPH Posters",
+   "url": "https://www.semanticscholar.org/paper/de04ce8296e17be6cfe2bea6de99d15857f75069",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Flexible Motion Stylization via Multi-modality Latent Diffusion Model",
+   "authors": [
+    "Wenfeng Song",
+    "Xingliang Jin",
+    "Shuai Li",
+    "Ai-Min Hao",
+    "Xia Hou"
+   ],
+   "year": 2026,
+   "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+   "url": "https://www.semanticscholar.org/paper/879df4ecb47406f458bf6b513cdb9099e9acd7f2",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Video motion stylization by 2D rigidification",
+   "authors": [
+    "J. Delanoy",
+    "A. Bousseau",
+    "Aaron Hertzmann"
+   ],
+   "year": 2019,
+   "venue": "ACM/Eurographics Expressive Symposium",
+   "url": "https://www.semanticscholar.org/paper/f646980a2ce491940a83eeae7ef2d8f5ce5784c4",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform",
+   "authors": [
+    "Ran Dong",
+    "Yangfei Lin",
+    "Qiong Chang",
+    "Junpei Zhong",
+    "D. Cai",
+    "S. Ikuno"
+   ],
+   "year": 2021,
+   "venue": "International Conference on Intelligent Computing and its Emerging Applications",
+   "url": "https://www.semanticscholar.org/paper/e4b7af97e24723865ed83d256d2205313c4bdda8",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization",
+   "authors": [
+    "H. Kim",
+    "Sangmin Lee",
+    "H. Kim"
+   ],
+   "year": 2025,
+   "venue": "IEEE International Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/05f3be2f2355614eebaa7ea6ab620322a8f3b733",
+   "arxiv_id": "2507.20562",
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Motion-coherent stylization with screen-space image filters",
+   "authors": [
+    "Alexandre Bléron",
+    "Romain Vergne",
+    "Thomas Hurtut",
+    "J. Thollot"
+   ],
+   "year": 2018,
+   "venue": "ACM/Eurographics Expressive Symposium",
+   "url": "https://www.semanticscholar.org/paper/a0612e6cd4ed6001316a98334941490fb079fb0a",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "FreeViS: Training-free Video Stylization with Inconsistent References",
+   "authors": [
+    "Jiacong Xu",
+    "Yi-Qun Mei",
+    "Ke Zhang",
+    "Vishal M. Patel"
+   ],
+   "year": 2025,
+   "venue": "arXiv.org",
+   "url": "https://www.semanticscholar.org/paper/6d052a61d08a66becb72245083a95ba2c8250449",
+   "arxiv_id": "2510.01686",
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Occlusion-Robust Stylization for Drawing-Based 3D Animation",
+   "authors": [
+    "Sunjae Yoon",
+    "Gwanhyeong Koo",
+    "Younghwan Lee",
+    "Jia-Jing Hong",
+    "C. D. Yoo"
+   ],
+   "year": 2025,
+   "venue": "IEEE International Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/4ea0c9081081628777e00c1d08d53eec297ecbd6",
+   "arxiv_id": "2508.00398",
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Volumetric Temporal Texture Synthesis for Smoke Stylization using Neural Cellular Automata",
+   "authors": [
+    "Dongqing Wang",
+    "Ehsan Pajouheshgar",
+    "Yitao Xu",
+    "Tong Zhang",
+    "S. Süsstrunk"
+   ],
+   "year": 2025,
+   "venue": "arXiv.org",
+   "url": "https://www.semanticscholar.org/paper/e83011cd0e8018e55984e07e677c21cc8b61d5c8",
+   "arxiv_id": "2502.09631",
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "FlowStyler: Artistic Video Stylization Via Transformation Fields Transports",
+   "authors": [
+    "Yu-Ning Gong",
+    "Jia-Ming Chen",
+    "Xiao-Long Ren",
+    "Yuan-Jun Liao",
+    "Yan-Ci Zhang"
+   ],
+   "year": 2025,
+   "venue": "IEEE International Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/c3d8adcd5f7065431a1f5e9171112630991ea123",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation",
+   "authors": [
+    "Kyuwon Kim",
+    "Sunjae Yoon",
+    "C. D. Yoo"
+   ],
+   "year": 2026,
+   "venue": "arXiv.org",
+   "url": "https://www.semanticscholar.org/paper/af52cf1c64ccee7073ed8d3b4075a9493e1d178f",
+   "arxiv_id": "2607.00525",
+   "source": "s2",
+   "category": "Datasets & Benchmarks",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis",
+   "authors": [
+    "Huaqiu Li",
+    "Jiahao Wang",
+    "Sijia Cai",
+    "Hualian Sheng",
+    "Bing Deng",
+    "Jieping Ye",
+    "Wenhan Luo"
+   ],
+   "year": 2026,
+   "venue": "arXiv.org",
+   "url": "https://www.semanticscholar.org/paper/cc74e073fbda809c446efad7b6e15ba0f5f74f7e",
+   "arxiv_id": "2606.25465",
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Arbitrary Motion Style Transfer via Contrastive Learning",
+   "authors": [
+    "Zi-Rui Yang",
+    "Zhongwen Luo",
+    "Zhengrui Wang",
+    "Yuan-Yuan Liu"
+   ],
+   "year": 2025,
+   "venue": "Applied Sciences",
+   "url": "https://www.semanticscholar.org/paper/d7f037347e337fc3162b0d457c2bb22626e758c0",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes",
+   "authors": [
+    "Kim Youwang",
+    "Ji-Yeon Kim",
+    "Tae-Hyun Oh"
+   ],
+   "year": 2022,
+   "venue": "European Conference on Computer Vision",
+   "url": "https://www.semanticscholar.org/paper/702f9e8bc722d14cc54f22c373cdf2e85f2abb8e",
+   "arxiv_id": "2206.04382",
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "ViSt3D: Video Stylization with 3D CNN",
+   "authors": [
+    "Ayushi Pande",
+    "Gaurav Sharma"
+   ],
+   "year": 2023,
+   "venue": "Neural Information Processing Systems",
+   "url": "https://www.semanticscholar.org/paper/2da5712d32bc93c5826c550c6041027b9ca306aa",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "Temporal Consistent Oil Painting Video Stylization",
+   "authors": [
+    "Lu-Yao Zhang",
+    "Wenjing Wang",
+    "Jiaying Liu"
+   ],
+   "year": 2023,
+   "venue": "International Symposium on Circuits and Systems",
+   "url": "https://www.semanticscholar.org/paper/cbbc70324c9e967da83b69881bd6f8386cb02224",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
+   "title": "A video painterly stylization using semantic segmentation",
+   "authors": [
+    "Der-Lor Way",
+    "Rong-Jie Chang",
+    "Chin-Chen Chang",
+    "Zen-Chung Shih"
+   ],
+   "year": 2022,
+   "venue": "Zhongguó gongchéng xuékan",
+   "url": "https://www.semanticscholar.org/paper/5e6b7b0b27701029e10c3b3f066f3355bd931173",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-05"
+  },
+  {
    "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture",
    "authors": [
     "A. Rosenthal",
