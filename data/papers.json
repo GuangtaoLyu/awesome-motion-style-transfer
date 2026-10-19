@@ -1890,6 +1890,26 @@
    "added": "2026-10-05"
   },
   {
+   "title": "Shape-Aware Stylized Dance Motion Generation Driven by Music",
+   "authors": [
+    "Chenguang Li",
+    "Yuhui Wen",
+    "Yuchen Jing",
+    "Yi Wang",
+    "Yayu Zhang",
+    "Zhengzhong Zhou",
+    "Yongjin Liu",
+    "Liping Jing"
+   ],
+   "year": 2024,
+   "venue": "Journal of Computer-Aided Design &amp; Computer Graphics",
+   "url": "https://doi.org/10.3724/sp.j.1089.2024-00492",
+   "arxiv_id": null,
+   "source": "crossref",
+   "category": "Stylized Motion Generation",
+   "added": "2026-10-19"
+  },
+  {
    "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture",
    "authors": [
     "A. Rosenthal",
