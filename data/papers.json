@@ -1910,6 +1910,131 @@
    "added": "2026-10-19"
   },
   {
+   "title": "Generalizing Human Motion Style Transfer Method Based on Metadata-independent Learning",
+   "authors": [
+    "Yuki Era",
+    "Ren Togo",
+    "Keiske Maeda",
+    "Takahiro Ogawa",
+    "M. Haseyama"
+   ],
+   "year": 2024,
+   "venue": "SIGGRAPH Asia Posters",
+   "url": "https://www.semanticscholar.org/paper/7e0f57b68e43b32c8dcf028c7dd5d549693a1d11",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-26"
+  },
+  {
+   "title": "Physics-aware Human-motion Style Transfer for Physically Executable Whole-body Control of Humanoid Robots",
+   "authors": [
+    "Tian-Chen Huang",
+    "Ming-Kuan Zhao",
+    "Yang Gao",
+    "Fei-Yang Yuan",
+    "Jun-Chi Gu",
+    "Xiao-Hu Zhang",
+    "Dong-Dong Zhao",
+    "Shi Yan",
+    "Yu Wang",
+    "Wei Gao",
+    "Shi-Wu Zhang"
+   ],
+   "year": 2026,
+   "venue": "Journal of Bionic Engineering",
+   "url": "https://www.semanticscholar.org/paper/24ce0ebb8af05eb517b4c8d982dbd387588854a9",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-26"
+  },
+  {
+   "title": "Motion Style Slider: Endpoint-Supervised Continuous Style Control for Human Motion Diffusion",
+   "authors": [
+    "Chen-Chieh Liao",
+    "Yi-Chen Peng",
+    "Yi-Yi Cai",
+    "Yûi Ono",
+    "Hiroki Hanaoka",
+    "Erwin Wu",
+    "Hideki Koike",
+    "Shuichi Kurabayashi"
+   ],
+   "year": 2026,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/65d23b6b61088ffa06fa0ce9b4029d38c0e65636",
+   "arxiv_id": "2609.30795",
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-26"
+  },
+  {
+   "title": "FineStyle: Semantic-Aware Fine-Grained Motion Style Transfer with Dual Interactive-Flow Fusion",
+   "authors": [
+    "Wen-Feng Song",
+    "Xing-Liang Jin",
+    "Shuai Li",
+    "Chenglizhao Chen",
+    "Ai-Min Hao",
+    "Xia Hou"
+   ],
+   "year": 2023,
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "url": "https://www.semanticscholar.org/paper/5082bcf6116e3b4d949adac8adeedc2eea3fae00",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-26"
+  },
+  {
+   "title": "MorphoStyle: Motion Style Transfer with Morphology Control",
+   "authors": [
+    "Xinran Feng",
+    "E. D'Arnese",
+    "Mohan Sridharan"
+   ],
+   "year": 2026,
+   "venue": "",
+   "url": "https://www.semanticscholar.org/paper/785dd877faaa72bcadbb773dbfc71851ddca04c7",
+   "arxiv_id": "2609.14189",
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-26"
+  },
+  {
+   "title": "A Cyclic Consistency Motion Style Transfer Method Combined with Kinematic Constraints",
+   "authors": [
+    "Huai-Jun Wang",
+    "Dandan Du",
+    "Jun-Huai Li",
+    "Wenchao Ji",
+    "Lei Yu"
+   ],
+   "year": 2021,
+   "venue": "J. Sensors",
+   "url": "https://www.semanticscholar.org/paper/a0abc2be84e13f5ec913105aa83a5299edb34d9c",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Motion Style Transfer",
+   "added": "2026-10-26"
+  },
+  {
+   "title": "NSYNC: Negative Synthetic Image Generation for Contrastive Training to Improve Stylized Text-To-Image Translation",
+   "authors": [
+    "Samet Hicsonmez",
+    "Serkan Ozturk",
+    "Pinar Duygulu"
+   ],
+   "year": 2026,
+   "venue": "",
+   "url": "https://doi.org/10.2139/ssrn.7643706",
+   "arxiv_id": null,
+   "source": "crossref",
+   "category": "Stylized Motion Generation",
+   "added": "2026-10-26"
+  },
+  {
    "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture",
    "authors": [
     "A. Rosenthal",
