@@ -2035,6 +2035,43 @@
    "added": "2026-10-26"
   },
   {
+   "title": "Depth-Adaptive Injection for Stylized Text-to-Motion",
+   "authors": [
+    "Shuai-Ying Hou",
+    "Hong-Yu Tao",
+    "Jun-Jie Gao",
+    "Jun-Heng Fang",
+    "Rong Zhang",
+    "Yong-Cong Zhang",
+    "Shi-Qi Zhou",
+    "Wei-Wei Xu"
+   ],
+   "year": 2026,
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "url": "https://www.semanticscholar.org/paper/d3a4ab2fe74d40eca2b4eb39054281c3d61fccc0",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-11-02"
+  },
+  {
+   "title": "StyleDiffuTalk: A Multi-Modal Diffusion Model for Stylized Talking Face Generation via Contrastive Learning",
+   "authors": [
+    "Jun-Wu Liu",
+    "Kang-Wei Liu",
+    "Jin-Chuan Li",
+    "Xiao-Wei Yi",
+    "Yun Cao"
+   ],
+   "year": 2026,
+   "venue": "IEEE International Joint Conference on Neural Network",
+   "url": "https://www.semanticscholar.org/paper/9296a1bbe1c21877456c0cc8573c141e82b3b0ad",
+   "arxiv_id": null,
+   "source": "s2",
+   "category": "Stylized Motion Generation",
+   "added": "2026-11-02"
+  },
+  {
    "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture",
    "authors": [
     "A. Rosenthal",
