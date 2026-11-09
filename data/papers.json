@@ -2072,6 +2072,17 @@
    "added": "2026-11-02"
   },
   {
+   "title": "Blender 4 Creator Course Stylized 3D Models",
+   "authors": [],
+   "year": 2024,
+   "venue": "Blender 4 Creator Course Stylized 3D Models",
+   "url": "https://doi.org/10.5040/9781350866300",
+   "arxiv_id": null,
+   "source": "crossref",
+   "category": "Stylized Motion Generation",
+   "added": "2026-11-09"
+  },
+  {
    "title": "SiGnature: Explicit Motion Diffusion for Stylized Semantic Gesture",
    "authors": [
     "A. Rosenthal",
