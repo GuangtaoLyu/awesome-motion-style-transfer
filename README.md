@@ -2,7 +2,7 @@
 
 A curated, auto-updated list of human motion style transfer and stylized motion generation papers.
 
-*Last updated: 2026-11-09 | Total papers: 143*
+*Last updated: 2026-11-16 | Total papers: 143*
 
 > 🤖 Auto-updated weekly by GitHub Actions (multi-source: arXiv + DBLP + Semantic Scholar + Crossref). Entries are auto-categorized by topic.
 
